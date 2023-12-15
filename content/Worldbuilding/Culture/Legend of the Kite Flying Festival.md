@@ -1,0 +1,11 @@
+Many years ago, lived a kindly emperor and his wife. The emperor was well-liked among the general population: He worked to alleviate poverty, invested greatly in the arts, and was kind to all.
+ 
+One day, invaders arrived in the city, and demanded the wife's hand in marriage in exchange for peace. The emperor was distraught, and was prepared to go to war over his wife. Instead, his wife reassured him and told him to let them take her away, saying she had a plan: She and her private entourage would willingly go with their enemies, but pack a special kite with them. When their enemies least expected it, her and her attendants would assassinate the chief when he was most vulnerable. When the task was done, she would send up her kite, signaling to the emperor his turn to attack their enemies and drive them away whilst they were without a leader.
+ 
+The emperor obeyed, though still despaired at having to go without his wife. Every day and night he would go without her, he ordered the guards to fly a kite above the palace at all times. The emperor's people soon took a liking to this trend, and began flying kites of their own in support of their emperor and his wife. As the days passed, the sky began to be filled with more and more elaborate kites.
+ 
+One night, the guards on watch finally saw the wife's kite in the distance. They immediately woke the emperor, who rallied his soldiers to head towards the kite's direction immediately. When they got there, however, they were met with devastating news: Their enemies had discovered the wife's plan, and slaughtered her and her compatriots, before seizing her kite and luring the emperor out with it.
+ 
+Though the emperor's army was able to fight off the invaders, the emperor was so overcome with grief for his wife, that he let himself perish in battle, so he could join his wife in death. The people mourned their deaths, and collected both of their kites, deciding to fly them together one night to honor their memories. To their surprise, when they did so, the spirits of the emperor and empress appeared before them, smiling and holding hands.
+ 
+From then on, the people decided to dedicate a time of the year to flying kites in honor of their beloved leaders. This gradually evolved into the kite flying festival of today.

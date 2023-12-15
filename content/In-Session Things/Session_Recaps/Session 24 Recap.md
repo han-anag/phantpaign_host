@@ -1,0 +1,33 @@
+The party started off reading up on Lingguoren history and culture from their books as they waited to arrive at the Anshan Nature Reserve. They passed entrance gates, instead crawling through a tight tunnel that lead into the nature reserve. There, Mei and [[Yinghua]] guided the party to their informant, the High Elf [[Lady Zhenyi]]. She affectionately hugged all of them, and invited them inside for tea.
+ 
+After chatting, the party asked her for help finding the plants Donovan wanted. She told them the flower of a Dusty Ivy could be found in the stone forests, while the Rotberry could be find in the rice terraces. She warned them not to be caught in the stone forests at night, as it was easy to get lost there. Finally, she told them about how she'd noticed the animals acting extra skittish and cautious lately. She even happened across the corpse of a deer recently, who seemed to have no obvious injuries except for having been bleeding from its eyes shortly before its death.
+ 
+The party went to the stone forests first. They were able to spot Dusty Ivy, but could not find any that were flowering. Mei and Yinghua hypothesized it might be a symptom of the rise in pollution and Corrupted Threads. After some struggle, they bumped into a group of Leferinese researchers. They were studying the Western Anshan Mountains, also known as the Celestial or Heavenly Mountains, and stopped by the stone forests to marvel at it. One of them was holding a newspaper, detailing general unrest in Nam, a series of robberies committed by a figure with green hair and purple clothes, Leferinese, Ondinian, and Lingguoren diplomats meeting together in Shengdu, plus protests erupting over the discovery of Donovan's plant constructs. Fanna was suddenly overcome with a vision of robbing a store as the storeowner was on the ground pleading for mercy, before the vision disappeared as soon as it arrived.
+ 
+The researchers left, and the party went deeper into the stone forests. Eventually, they found a flowering Dusty Ivy, which Brooks harvested after braving his claustrophobia. After that, the party noticed one of the monkeys that lived in the stone forests watching them, shivering and generally looking unwell. It started gagging, and black tendrils emerged out of its mouth. Fanna killed the monkey with a spell, and it fell to the ground, but the black tendrils continued crawling out of its mouth. Mei and Yinghua told the party to run, as that was a sign of Corrupted Threads, and the party obeyed.
+ 
+The party made their way to the Great Anshan Lake after, in search of the Parasitic False Water Lily. They came across a beautiful lotus field near the shore of the lake. The party decided to split, with Mei and Yinghua going to investigate the water for pollution and the rest of the party searching for the flower. Amanti managed to harvest one, but as he stood up, he heard yelping and splashing sounds from Mei and Yinghua. Mei was trapped in plants and stuck in the mud, while Yinghua had lost her balance and was flailing around in the water.
+ 
+As the party ran to help, Ayer's Ghost reappeared, challenging the party once again. Yinghua managed to right herself again during the battle, but the victory was cut short as another being approached: A disgusting, grotesque, masked beast, which emerged out of water, snuck up on Ayer's Ghost, and ate it. Soup, who showed the first instance of genuine fear for the first time in the party's presence, immediately turned around and fled from the beast.
+ 
+The party panicked as Mei was still unable to free herself. Amanti cut the plants entangling her, but was still waist-deep in the mud. Fanna tried intimidating the monster with an illusory Michael, but the monster seemed undeterred, and continued approaching the party. After some frantic arguing, Yinghua opted to distract the beast, transforming into a water snake and swimming across the water away from the rest of the party. The monster followed, and the distraction seemingly worked. Amanti cast Water Walk on Mei, finally freeing her. Everyone watched as the distracted monster picked something up from the water and sank its teeth into it. The relief turned into horror, however, as the object turned out to be the water snake, which rapidly transformed into Yinghua, before the monster bit her head off and ate it, letting her body drop into the water.
+ 
+The party then engaged in combat with the monster, a fight that turned out to be exhausting on both the mind and body. The monster was able to eat spells, and even chewed on its own flesh to try and regain health. In addition, its ghastly shrieks induced madness in the party, and Mei ended up being trapped in the monster's mouth as well. The monster's presence was so fearsome that the talismans Michael had given the party shattered, allowing Spirits to enter the fray as well. As the party whittled its health down, the mask on its face exploded, revealing the face of a humanoid male crying blood underneath, and black wispy smoke started emanating from its joints. Eventually though, the party slaughtered the beast. Like the monkey before, it started gagging, before vomiting up Mei, along with some substantial blood, and finally collapsing and falling apart into many pieces.
+ 
+The devastated and stunned party stood there in silence, in disbelief of what happened. The once beautiful lotus fields were defiled with death and blood. Mei sat on the water with tears on her face, absolutely despondent, while Amanti cursed and blamed himself for Yinghua's death. Fanna tried to collect the pieces from the mask that was on the beast's face, as Brooks searched for and collected Soup. Amanti's Wildfire Spirit and Soup crawled to Mei to comfort her.
+ 
+Then, Yinghua's headless body rose up again, stiffly ambling toward the party. A tearful Mei begged the party to put her out of her misery, unable to do it herself, and Fanna obeyed, driving their scimitar into her chest and finally putting an end to her pain.
+ 
+The party carried Yinghua's body to shore, and buried her in a grove of flowers, right in the middle of the nature she loved and died protecting. Fanna bathed her body with blessed water, then read the burial prayers, as Michael had instructed the party to do right before the party set off for Anshan. They lit some incense and placed it on the grave, and the session ended with Mei lying on the ground in front of the incense as she grieved, Soup and the Wildfire Spirit by her side.
+
+# Rewards Granted
+Flower of a Dusty Ivy
+Parasitic False Water Lily
+Shards of the Taotie's Mask
+
+# Character(s) interacted with
+Lady Zhenyi
+Mei
+Yinghua
+Leferinese Scientists
+Taotie

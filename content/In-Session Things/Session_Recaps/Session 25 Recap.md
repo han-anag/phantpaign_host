@@ -1,0 +1,7 @@
+- mei revealed that yinghua's soul was annhilated from the weave and can't ever come back, not even through reincarnation or revival
+- the party discovered a dead body and a chest in the rice terraces
+- the party found a scrap of paper with writing on it in the dead body's pocket
+- a corrupted thread appeared, terrorized the party, then swallowed up the dead body before disappearing
+- the party collected the rotberry before carrying the chest down to lady zhenyi
+- mei broke down crying to lady zhenyi, who carried her and let her rest in her bedroom while she prepared food and tea for the party. lady zhenyi broke open the chest with her ki powers, revealing an in tact taotie mask inside. the party and lady zhenyi discussed what to do with the taotie mask and shards.
+- as lady zhenyi was helping the party sew laseen's handmade bags together, she warned them not to trust michael: he apparently had murdered a woman in her sleep, completely unprompted--even admitting he killed her in her sleep without any good reason during trial--and only dodged punishment because the leader of the eastern shengdu temple, hua tuo, interceded on his behalf. hua tuo is guiying's father.

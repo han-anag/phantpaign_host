@@ -1,0 +1,1 @@
+The original generation of mortals and spirits The Weaver had created. They were more powerful than the second generation of beings the Weaver made, and used their power to try and take over the world for themselves. Destroyed in the War of the Corrupted Threads.
