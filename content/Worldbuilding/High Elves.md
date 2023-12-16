@@ -1,4 +1,4 @@
-High Elves are less akin to most of the races in the universe, and more of guardian entities that live mortal lives. They were created by The Weaver to help mortals in the [[War of the Corrupted Threads]]. After the war, the remaining High Elves scattered. Some integrated with mortal societies, taking up roles as religious leaders or spiritual guides. Others formed secluded communities with other High Elves. A rare few decided to live completely alone, remaining with neither mortals, spirits, or other High Elves.
+High Elves are less akin to most of the races in the universe, and more of guardian entities that live mortal lives. They were created by The Weaver to help mortals in the [[War of the Frayed Threads]]. After the war, the remaining High Elves scattered. Some integrated with mortal societies, taking up roles as religious leaders or spiritual guides. Others formed secluded communities with other High Elves. A rare few decided to live completely alone, remaining with neither mortals, spirits, or other High Elves.
 
 # Basic Information
 

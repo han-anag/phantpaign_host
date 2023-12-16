@@ -36,7 +36,7 @@ The branch/dialect of Yumalyan primarily spoken in the valleys and steppes.
 
 ## Special
 **High Tongue/High Elvish**
-A language that developed amongst the High Elves after the War of the Corrupted Threads. Essentially a status symbol, though helpful to know once reaching the advanced stages of magical and Ki power, as many books on magic theory use High Tongue. Divided between a literary, formal form and colloquial, spoken form. Basically Fantasy Latin
+A language that developed amongst the High Elves after the [[War of the Frayed Threads]] Essentially a status symbol, though helpful to know once reaching the advanced stages of magical and Ki power, as many books on magic theory use High Tongue. Divided between a literary, formal form and colloquial, spoken form. Basically Fantasy Latin
 
 **Weaverspeak**
 A ceremonial language used for casting magic and rituals. Believed to be the most "primordial," though the most comprehensive references to it are in ancient texts and tomes. Some evidence that it is an ancient form of modern Lingguoren, or that ancient Lingguorens' used it for a special ceremonial purpose. Probably the only language on this list that defines the norms of how languages actually work irl in that it has intrinsic magical powers.

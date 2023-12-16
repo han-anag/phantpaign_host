@@ -1,8 +1,7 @@
 ---
 title: Home
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
 > [!quote] 
 >**妖有百种**
@@ -40,4 +39,4 @@ Some shortcuts:
 	- [[Ki Mechanics]]
 - [[Spirits, Ki & Magic (Lore)]]
 - [[High Elves]]
-- [[Corrupted Threads]]
+- [[Frayed Threads]]
