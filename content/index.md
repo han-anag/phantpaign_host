@@ -1,0 +1,11 @@
+This is where I store my campaign notes.
+
+If you can see articles like "Session 24 Plans" then this is the private version of my notes and something went wrong. Please alert me as soon as possible so I can fix it. Or you can go ahead and read everything and spoil yourself on the entire plot whatever. But you'll ruin the fun for me and the others.
+
+pee pee poo poo.
+
+For information on the culture and lore, go to Worldbuilding.
+
+For information on the world itself, go to Atlas.
+
+For information on Ki and a list of Ki Techniques, go to Ki.
