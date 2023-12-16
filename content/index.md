@@ -6,12 +6,19 @@ tags:
 ---
 > [!quote] 
 >**妖有百种**
+>
 >Yāo yǒu bǎi zhǒng
+>
 >**皆分明善恶**
+>
 >jiē fēnmíng shàn è
+>
 >**人心一颗**
+>
 >rénxīn yī kē
+>
 >**却万千难测**
+>
 >què wàn qiān nán cè
 > --- 
 >There are hundreds of spirits
