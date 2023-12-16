@@ -23,7 +23,7 @@ tags:
 >- - -
 >There are hundreds of spirits
 > 
->Each can distinguish good and evil
+>Each can distinguish good from evil
 > 
 >Humans have one heart
 >
