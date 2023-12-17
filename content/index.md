@@ -37,6 +37,7 @@ pee pee poo poo.
 Some shortcuts:
 - [[List of Ki Techniques]]
 	- [[Ki Mechanics]]
+- [[NPC Pronunciations]]
 - [[Spirits, Ki & Magic (Lore)]]
 - [[High Elves]]
 - [[Frayed Threads]]
