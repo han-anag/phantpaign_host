@@ -9,13 +9,12 @@ The creator of the world and all life. Believed to have woven the world into exi
 Spiders, spider webs, a loom, tapestry
 
 > [!info]
-> **Divine Classification**
-> God
-> **Religions**
-> [[Qianpath]]
-> **Church/Cult**
-> [[Lingguo]]
-> **Age**
-> As Old As the Universe
-> **Pronouns**
-> They/Them
+> **Divine Classification**: God
+> 
+> **Religions**: [[Qianpath]]
+> 
+> **Church/Cult**: [[Lingguo]]
+> 
+> **Age**: As Old As the Universe
+> 
+> **Pronouns**: They/Them, occasional She/Her
