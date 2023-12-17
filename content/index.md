@@ -26,7 +26,7 @@ tags: []
 > 
 >Humans have one heart
 >
->But it is incomprehensible
+>But it is unpredictable
 
 If you can see articles like "Session 24 Plans" then this is the private version of my notes and something went wrong. Please alert me as soon as possible so I can fix it. Or you can go ahead and read everything and spoil yourself on the entire plot, whatever. But you'll ruin the fun for me and the others.
 
