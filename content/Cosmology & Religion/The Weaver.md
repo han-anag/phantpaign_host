@@ -11,7 +11,7 @@ Spiders, spider webs, a loom, tapestry
 > [!info]
 > **Divine Classification**: God
 > 
-> **Religions**: [[Qianpath]]
+> **Religions**: [[Qiandao]]
 > 
 > **Church/Cult**: [[Lingguo]]
 > 

@@ -1,4 +1,4 @@
-The origin myth of Qianpath.
+The origin myth of [[Qiandao]].
 
 ### Summary
 In the beginning, there was naught but a tangled mass. Disorganized, fraying threads that were wound up tightly, each individual thread fighting each other for space in the constantly moving sphere. Thick knots often resulted from this fighting, and the threads became so caught up in each other that they soon started running out of length.
@@ -31,4 +31,4 @@ A massive wall in the capital where a tapestry hangs depicts this myth.
 
 > [!info]
 > **Related Organizations**
-> - Qianpath
+> - Qiandao

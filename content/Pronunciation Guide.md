@@ -1,4 +1,6 @@
-# General
+# Characters
+
+## General
 Guiying (gway-ing, gway as in the word "way"): Caretaker at the eastern temple, Michael's friend, an elf
 
 [Michael] Yang (kinda like "on" but with the "ing" of "parting," for example; [jɑ́ŋ] in IPA): Michael
@@ -21,9 +23,11 @@ Yinghua (ing-hwah): The Atracidae member accompanying Mei and the party on their
 
 Lady Zhenyi (like the name "jenny"): The High Elf the party met in the Anshan nature reserve. Has flowers braided into her hair and likes giving hugs.
 
+Sir Haishan (hai-shawn): The High Elf the party witnessed leading a death row criminal to his execution. His collar and neck are covered in dozens of talismans and protective charms, presumably to ward off against vengeful Spirits as a result of his profession.
+
 Lauran, Donovan, Michael, Mei, Ljubica, Iskra, Joanna, Kasha, Laseen: You know how to pronounce these
 
-# Lidong Villagers
+## Lidong Villagers
 Daina (dai-ina): The woman staying at Donovan's father's inn. Always keeps her baby close.
 
 Mateo (ma-tayo): Daina's son.
@@ -37,6 +41,8 @@ Gui Wu (gway woo): Owns the general store in Lidong.
 Dr. Huyin (hoo-yin): The village doctor in Lidong.
 
 # Locations
+Lingguo (ling-gwoh): The country the campaign mainly takes place in.
+
 Shengdu (shung-doo): Name of the capital of Lingguo
 
 Caochuan (tsao-chuan): The city where the science expo and subsequent terrorist attack took place in

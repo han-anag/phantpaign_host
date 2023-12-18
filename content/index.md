@@ -32,12 +32,12 @@ If you can see articles like "Session 24 Plans" then this is the private version
 
 pee pee poo poo.
 
-[Your collective Google Doc notes](https://docs.google.com/document/d/1nN9gfH4UaYdG1C9vrXNDUfEDHCNotvbNbWUefRiTjwc/edit) (An external website)
+[Your collective Google Doc notes](https://docs.google.com/document/d/1nN9gfH4UaYdG1C9vrXNDUfEDHCNotvbNbWUefRiTjwc/edit) (An external website, open in a new tab)
 
 Some shortcuts:
 - [[List of Ki Techniques]]
 	- [[Ki Mechanics]]
-- [[NPC Pronunciations]]
+- [[Pronunciation Guide]]
 - [[Spirits, Ki & Magic (Lore)]]
 - [[High Elves]]
 - [[Frayed Threads]]
