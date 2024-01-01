@@ -38,6 +38,6 @@ Some shortcuts:
 - [[List of Ki Techniques]]
 	- [[Ki Mechanics]]
 - [[Pronunciation Guide]]
-- [[Spirits, Ki & Magic (Lore)]]
+- [[Overview of Spirits, Ki & Magic]]
 - [[High Elves]]
 - [[Frayed Threads]]

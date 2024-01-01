@@ -71,5 +71,5 @@ Master Hua dismissed the party, telling them he'll update them by letter any mor
 
 ## Items Of Importance
 - Note Found In Anshan (given to government official)
-- Taotie Mask
-- Taotie Mask Shards (stored in Laseen's handbags)
+- Taotie Mask (stored in Laseen's handbags)
+- Taotie Mask Shards (stored in Kirin plush)
