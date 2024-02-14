@@ -3,7 +3,7 @@
 ## General
 **Guiying** (gway-ing, gway as in the word "way"): Caretaker at the eastern temple, Michael's friend, an elf
 
-**[Michael] Yang** (kinda like "on" but with the "ing" of "parting," for example; [jɑ́ŋ] in IPA): Michael
+**\[Michael] Yang** (kinda like "on" but with the "ing" of "parting," for example; \[jɑ́ŋ] in IPA): Michael
 
 **Master Hua, Tuo Hua** (twoh - hwah): Head caretaker of the eastern temple, High Elf, Guiying's father
 
