@@ -1,0 +1,37 @@
+The party's rest is disturbed by a fearsome foe that preyed on the party's most precious memories.
+
+## Characters Interacted With
+**Liu:** Helped the party defeat the Nine-Headed Serpent.
+
+**Nine-Headed Serpent:** A nine-headed serpent with the power to manipulate fog, illusions, and light. Lured the party into its den using illusions, before attacking them. Based off the Xiangliu.
+
+**Other Characters Mentioned:** Dog Yao (Xie), Monkey Yao (Jufu)
+
+## Session Overview
+The session began with the parry divvying up the spoils of war they received from the fallen unnamed Elf. Brooks received the Robe of Eyes and Rope of Mending, Fanna received the Lantern of Revealing, and Amanti received the Eyes of Minute seeing. After traveling some more through the Ethereal Plane, the party decided to stop and set up camp for the night, assigning everyone different shifts to keep watch during. Fanna set up a small offering a little ways away from the party to distract Spirits from them. As Liu began their watch, the party noticed a faint scar of what looked like a slash mark on their cheek, but decided not to question it. 
+
+Liu's watch went without incident, and soon it was Fanna's turn. As they were sitting around, a dense fog gradually started rolling into camp, to the point they couldn't see more than an arm's length in front of them. Then, they heard a voice calling out their old name from the fog: Vega. It was the voice of their nanny when they were a child. As they got up to investigate, images began to flicker within the fog: The nanny first teaching them her traditional songs and dances, her bringing homecooked food to them, and telling them stories of the outside world. Finally, they saw her face appear in the fog. She pleaded with Fanna, telling them she had important information to tell them, but she couldn't tell them now, as it wasn't safe and people may be listening. Fanna's use of Detect Thoughts on her yielded nothing, and only when she hummed the song that she had taught Fanna when they were younger did Fanna agree to follow her into the fog.
+
+Then, Amanti woke up. He quickly realized that his Wildfire Spirit wasn't where it was resting previously, and Fanna was gone. No one had woken him for his shift. He went to go wake up Brooks, and everyone met up, including Soup. After some investigation, they found the path Fanna had been carving into the ground using their scimitar, and decided to follow it.
+
+Back with the nanny and Fanna, the nanny asked Fanna how they had been, and why the change in appearance and name. Fanna noticed she was carrying a stack of books in her arms, but they all seeming had no overarching theme: One was a book on the latest theories on Leferinese chemistry, another was a philosophical book about returning to one's roots and becoming one with nature, while one was a shonen manga. During this walk, Fanna changed back to their old appearance of "Vega". After some time, the two arrived at the mouth of a cave, which curiously stank of rot and metal.
+
+Meanwhile, as Amanti, Brooks, Liu, and Soup walked, visions started appearing in the fog once more. They were of Amanti's past marriage to Louisa, including when she met him, and them raising their two sons. The voice of Louisa then started calling out to Amanti. Amanti followed it, and saw the face of Louisa standing a ways away in the fog. She pleaded with Amanti to come with her, as she had lost everything in the war and wanted to try and start over again. She claimed she had found Matas, their eldest son, but he wasn't the same anymore. Amanti hesitated, and in the hesitation. Soup ran off after Louisa's image instead.
+
+Amanti, Brooks, and Liu were assaulted with the sounds of Louisa screaming and shrieking in terror. They all hurriedly ran after Soup further into the fog, eventually emerging at the same cave entrance Fanna was at. Soup, unfortunately, was nowhere to be found. After some confusion, Fanna introduced everyone to their old nanny. When the group that just arrived reported of the experience they had, Fanna immediately grew suspicious of the nanny. She lashed out at Fanna, saying that she should've been the one that mistrusted them after they caused her death. Fanna rebuffed her, and with the act revealed, the "nanny" gloated over how the party still was without Amanti's Wildfire Spirit, before whisking away into the cave.
+
+The party went into the cave, which stank fully of rotten food and crops that had gone bad at this point. They eventually emerged out into a massive underground lake, where the party saw Soup, the Wildfire Spirit, and two other creatures bound up by magic and put into a stasis. They were able to free Soup with a use of dispel magic, but when they attempted to rescue the Wildfire Spirit, a gargantuan nine-headed serpent rose out of the water and initiated combat.
+
+On its first turn, the serpent used its Whispers of Confusion to send Brooks into a state of confusion, with only a small chance every round to be able to use their turn normally. Fanna used Polymorph to shape themselves into a fabulous, clown-like t-rex and quickly went to engage the serpent in melee. The serpent knew a variety of trickery which it used to its advantage, including creating illusory duplicates of itself and turning invisible. The former was resolved with a Wall of Fire from Amanti, but the latter necessitated Fanna dropping the t-rex form and taking out their Lantern of Revealing. During the fight, Amanti was able to free their Wildfire Spirit. The Spirit in turn told Amanti how he could use Ki to free the other creatures, and Amanti was able to free one of them, a dog-like Yao with scales and hair like a boar's mane, which bit the serpent on its turns. Finally, after seven rounds, the beast was felled, and fell into the water.
+
+The party freed the last creature, a Yao that looked like a monkey but with markings on its arms and a tail like a leopard. It briefly communicated with the Wildfire Spirit before running out of the cave, and the Spirit informed the party of its thanks. The remaining Yao pawed at one of the heads of the serpent that remained out of the water, and after some investigation, Fanna was able to extract a Ring of Protection +1 out of it, which they put on.
+
+The party returned to camp and went back to sleep. Upon morning, everyone got back together again to start another day in the Spirit World. Brooks was able to forage some berries, though they tasted very bland, and Liu gratefully took one. Fanna tried to steal one, but in their haste, had a "Kick Me" sign pasted on their back by a sneaky Brooks. The session ended with Amanti, Brooks, Soup, and the Wildfire Spirit all looking on as Liu toppled Fanna with a kick to the back before perching on top of them in victory.
+
+## Key Learnings
+- The party, including Liu, learned of the existence of Fanna's older appearance as Vega, along with their nanny.
+- Brooks and Liu saw glimpses into Amanti's past, including his marriage with Louisa. They also saw how he had another son besides Nadyn: Matas, the elder one, who disappeared during the war at some point like the others.
+
+## Items Of Importance
+- Ring of Protection +1
+- "Kick Me" sign
