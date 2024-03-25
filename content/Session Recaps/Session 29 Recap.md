@@ -1,0 +1,55 @@
+After traveling through an abandoned town, the party finally arrives at the chasm Liu spoke of.
+
+## Characters Interacted With
+**Liu:** Still accompanying the party. Greatly dislikes Amanti and Fanna after this session.
+
+**Infected Wolf Yao:** Left behind by the other Wolf Yao, eventually succumbed to the Frayed Thread that had corrupted it.
+
+**Ghosts & Yao in Abandoned Town:** Gossiped and interacted with the party, pointing out how Fanna has two souls.
+
+**Spirit of the Child, Spirit of the Adventurer, Spirit of the Bride:** Carried Liu's dagger and directed the party into the chasm.
+
+**"Baby"/Longzhi:** Appeared in the field of Sunkissed Clouds and lured the party to it, revealing itself to be a powerful Yao at the end of the session.
+
+**Other Characters Mentioned:** Wolf Yao pack, Ghoul with Locket, Ghost of Man Searching for Locket, Donovan (gossiped about by the Spirits in the abandoned town)
+
+## Session Overview
+The session began with the party trekking forward after waking up from their Long Rest. Amanti noticed the Wildfire Spirit seemed especially quiet after what happened with the Nine-Headed Serpent, but it brushed off his concern and said it was fine. The ruins of an abandoned town came into view, including a group of Wolf Yao appearing to be arguing with each other near its entrance. The party contemplated avoiding them, then realized they might know where the chasm was that Liu sought. Liu flew over to them and asked if they had seen a chasm nearby, and the Wolf Yao said that traveled around one before that passed through the abandoned town.
+
+Returning to their argument, the party overheard the Wolf Yao debating on whether to leave a sickly member of their pack behind. The Wolf was trembling, but after a Medicine check from Amanti, nothing seemed to exactly be amiss with it physically. The Wildfire Spirit sniffed the air, reporting that the sick Wolf Yao's aura was "sour and acrid, like it was rotting." The pack began to leave, seeing this case as hopeless. Fanna attempted to put on a faux-séance to make the Wolf Yao pack believe the sick Yao was cured, though in the end it sadly only ended up wasting time, and the party quickly departed with embarrassment from and for Fanna.
+
+Entering the town, the Spirit of the Child that had Liu's dagger appeared once again. Liu and Fanna both tried getting the dagger back, but the Spirit handed it to another Spirit, this time a male Tiefling in adventurer's clothes. The Adventurer Spirit beckoned the party to follow it, then ran deeper into the abandoned town, much to Liu's frustration. As they walked, the party passed by the Ghost of a man mumbling about his lost locket. The eventually came across the ruins of a tavern, with many Ghosts and Yao inside. As soon as they noticed the party, they all came out to ogle at them, noting it's been sometime since someone from the Material Plane walked through. They informed Liu that the chasm they sought was just past this town. Amanti, asked for a healer, and the a dwarf Ghost with an eyepatch stepped forward, but when he attempted to pick up the Wolf Yao, he recoiled, saying the Wolf Yao's aura was bad, like something rotten. The Wildfire Spirit sensed its aura again, and said that it felt like "something was eating away at it from the inside."
+
+The other Spirits stepped away from the sick Wolf Yao, prompting it to become distressed and hostile to its surroundings. Amanti managed to calm it down with an Animal Handling roll, but the Wildfire Spirit told Amanti to run, saying it was a lost cause. Fanna held out the Ghost Repelling Talisman they had on them to try and help, causing the Ghosts that had been watching previously to flee. The now pissed off Yao ran after to fetch them.
+
+Black wisps started emanating from the Wolf's limbs. As it pleaded for help, it vomited up black sludge. The Wildfire Spirit, sensing something was deeply wrong with the Wolf Yao, fled too. The helpless Wolf Yao then violently transformed in front of the party's eyes into a Frayed Thread, prompting Soup to flee as well.
+
+The party ran from the newborn Frayed Thread, but it gave chase. Fanna cast Slow on it, but the spell merely fizzled out--Frayed Threads distort the Weave so severely that magic has no effect on them. The Ghosts and Yao from the tavern appeared--having run to the rooftops to avoid the Frayed Thread--and yelled down to the party, saying that they had to defeat the Frayed Thread using Ki. Armed with this knowledge, the party engaged the newborn Frayed Thread in combat. As it had only just transformed, the battle was swift, but lasted just long enough for the Wildfire Spirit to return and hear Fanna call Liu a "birdbrain" in front of everyone, much to their disgust.
+
+The Frayed Thread's body completely dissolved into nothingness, and the surroundings appeared normal once again. The Spirits from the tavern came up to the party and thanked them, engaging in small talk. One pointed out how Fanna had "two souls," asking what was up with that. At Fanna's confusion, they elaborated how the flame inside Fanna's aura was purple, but tinged with a whitish-pale yellow color. This began a discussion on what color people's souls were, which the Spirits informed the party of. Amanti's was evergreen, Brooks' was aquamarine, and Liu's was a deep indigo. The Spirits further explained how Fanna likely wouldn't turn into a Frayed Thread from this anomaly, but their personality could be affected in unpredictable ways should something destabilize the two souls.
+
+Eventually, the Spirits happily began to resume the conversation they were having before meeting the party--engaging and bartering memories. The party was put off by this and decided to take their leave, especially since Liu wanted to get going now that the chasm was so close.
+
+The party walked further into the town, spotting a Ghoul with a locket around its neck tearing into and eating the dead body of another Ghoul in an abandoned house. Brooks snuck in and took the locket off the Ghoul, and the party doubled back to the Ghost wandering around the abandoned town earlier, catching some more gossip from the abandoned tavern along the way. Brooks handed the locket to the Ghost, who finally snapped out of his daze and opened the locket, showing a picture of his wife and kid. Now at peace, the Ghost faded away, leaving behind a Necklace of Prayer Beads.
+
+The party short rested, with Amanti attuning to the necklace during the rest. They then proceeded through the town, catching one last bit of gossip from the tavern Spirits about Donovan's troubles. Apparently someone had thrown their cup full of hot tea at him, and his address got leaked. The party reflected on what was happening to him, though Liu appeared confused on who the party was talking about (clarifications of "the green twink" only made them look at Fanna). Fanna transformed into Donovan, and Liu finally recognized him as the "guy from the newspapers."
+
+Finally, the party spotted the edge of the chasm, covered in a thick shimmering mist just as Liu had described. Signs of struggle were in the ground, appearing like something had dragged Liu's party into the chasm. The Spirit of the Adventurer from before then appeared. Liu got ready to chase after him and demand his dagger back, but Amanti tried to stop him. Liu got pissed, saying that Amanti was treating him like a child, and the two got into an argument. Together, Amanti and Fanna held Liu back as the Spirit walked up to Liu and presented him with his dagger. The two released Liu, and he muttered a "thank you." Then, the Spirit pointed toward the chasm, where the party saw another Spirit. This time of a woman in a Chinese wedding gown and red veil obscuring her face. When the party looked back to the Spirit of the Adventurer, it was gone.
+
+Liu, furious at Amanti and Fanna, stuck closely by Brooks. As the party questioned the Spirit on if she knew where Liu's party was, she used her powers to gently lift the party up and guide them into the shimmering mist. Before the party disappeared into the chasm, they heard the Spirit whisper a "good luck" inside their heads.
+
+The party touched down in a mesmerizing field of Sunkissed Clouds, stretching all around them. They began walking on the downward slope, further into the chasm. After some time, they heard the cry of a baby. The party went to investigate it, though the Wildfire Spirit muttered to itself about how strange it was for a baby to be found in an area like this.
+
+The party saw a young human baby swaddled up and resting on a bed of the flowers. The party was hesitant to approach, and Fanna's Spirit roll revealed that this was not a baby. Fanna eventually decided to try and transform themselves into the bride they saw before. (DM's note: As they still had not transformed out of Donovan-Fanna form, and they had no way of changing their clothes, this resulted in a very cursed image as they tried to force a wedding dress and veil onto their Donovan appearance)  Slowly, they approached the "baby", who was still crying. They tried jingling old keys they took with them when they fled Lauran's care in front of the "baby", and the "baby" happily cooed and reached out to play with them. The Wildfire Spirit commented that the keys were immensely valuable--They carried a lot of emotions and experiences with them. Fanna eventually made their way face-to-face with the "baby" and inspected it. The "baby" was too perfect, to the point of triggering the uncanny valley, and had silvery eyes, and Fanna got the sense that the "baby" would do something to them if they tried to pick it up.
+
+Curiosity sated, Fanna started to take a step, only to realize that the flowers had wrapped themselves around Fanna's legs, anchoring them to the ground. Everyone else in the party tried to move, only to realize to their horror that they had also been trapped by the flowers as well. The session ended as the "baby" revealed its true form, transforming into a large fox-like Yao, with nine differently colored heads, nine differently colored tails, and tiger's claws--a [Longzhi](https://weirdtales.me/2024/02/20/longzhi-蠪蛭/).
+
+## Key Learnings
+- Fanna has two souls, or entities composing their being. The current soul (Fanna) is the dominant one. The nature of how exactly the two souls are connected has yet to be revealed, except that if they were to destabilize, their current "being"--the one the party knows as Fanna--could be suppressed or even disappear.
+- Gossip from the Spirits in the abandoned town:
+	- People along the Ondinian-Lingguoren border and Ondinian prisoners were disappearing, rumored to be used for rituals and experimentation
+	- The harassment Donovan was receiving from the public was worsening: Someone threw their mug full of hot tea at him, and another person showed up at his apartment and caused trouble, provoking his landlord's ire.
+
+## Items Of Importance
+- Locket (given to Ghost)
+- Necklace of Prayer Beads (5 Beads): Bless, 2x Cure Wounds (Second Level), Greater Restoration, Branding Smite
