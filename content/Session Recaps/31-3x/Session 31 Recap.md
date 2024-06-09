@@ -31,30 +31,50 @@ After another day's travel, the party settled down for the night again. Liu was 
 The party long rested, then set off once more. Eventually, the ground beneath them stopped descending, and they entered the bottom of the chasm: A dark, dimly lit cave with an underground river. When they approached the riverbank, they saw a curious figure by the river's edge. A young man in robes of a previous dynasty, covered in numerous tokens that had eyes imprinted on them. The eyes were animated, blinking periodically and looking around as if they were still attached to their owners. The man cheerfully greeted the party, and explained how he was a merchant who sold a special kind of product: Tokens in the shape and appearance of eyes. He offered several tokens, which seemed to have similar effects to potions, but the party was not interested in a sale. Disappointed, the eccentric man disappeared, but not before telling the party to be careful traveling further down the river: Strange things had been occurring there recently.
 
 The party walked alongside the river, hoping to find signs of Liu's party. Instead, ghostly figures appeared along their path, playing music and singing a mysterious melody in High Tongue. The ivory orb in Amanti's inventory began spinning slowly. Curious, he took it out and held it up, and it began to spin faster at the Ghosts' song. The Ghosts looked upon the orb with great interest, but did not do more. The Wildfire Spirit, after some time, translated their words into common, and relayed it to the party:
-	How could anything else ever compare to you?
-	My treasured homeland and my beloved people
-	Though you have long departed, while my body decays and turns to ash
-	I will never abandon the ones I love
-	---
-	Boundless wisdom, unfettered courage
-	All of the gold in the world could not compare to your purest heart
-	Even as we are forgotten, even as you have shown no sign of return
-	My soul shall remain waiting for you
-	---
-	Ever since your departure, our scholars have grown dumb, the nobles unrefined
-	Our kingdom ails without your noble guidance
-	The birds have ceased to fly, and our flowers no longer bloom
-	The heavens weep as the world falls apart
-	---
-	As the ties that bind our homeland unravel and fray
-	Who shall speak of our stories, once the curtain finally falls?
-	Continuing to perfect my craft as I live the last of my days
-	I leave this final gift, placing my heartfelt sorrows and wishes within
-	---
-	One last melody delivered by those with royal blood
-	The culmination of our art, many-layered like both heaven and hell
-	Remnants of the past, when reunited once more
-	Shall bring in a verdant kingdom's glory anew
+
+--- 
+###### The Mysterious Song
+How could anything else ever compare to you?
+
+My treasured homeland and my beloved people
+
+Though you have long departed, while my body decays and turns to ash
+
+I will never abandon the ones I love
+
+Boundless wisdom, unfettered courage
+
+All of the gold in the world could not compare to your purest heart
+
+Even as we are forgotten, even as you have shown no sign of return
+
+My soul shall remain waiting for you
+
+Ever since your departure, our scholars have grown dumb, the nobles unrefined
+
+Our kingdom ails without your noble guidance
+
+The birds have ceased to fly, and our flowers no longer bloom
+
+The heavens weep as the world falls apart
+
+As the ties that bind our homeland unravel and fray
+
+Who shall speak of our stories, once the curtain finally falls?
+
+Continuing to perfect my craft as I live the last of my days
+
+I leave this final gift, placing my heartfelt sorrows and wishes within
+
+One last melody delivered by those with royal blood
+
+The culmination of our art, many-layered like both heaven and hell
+
+Remnants of the past, when reunited once more
+
+Shall bring in a verdant kingdom's glory anew
+
+---
 Fanna, after some careful listening, was able to replicate the main melody on their lute. The ball began to spin even faster in response. They hummed along to the words, spurring more spinning, and the ball even began to glow slightly. The rest of the party joined in on the humming, but the intensity of its movement and glow plateaued. The Wildfire Spirit said that they'd likely have to find someone who knew High Tongue to sing the song, to which Brooks pointed out that the Wildfire Spirit clearly did, since it translated it in the first place. The Wildfire Spirit, realizing the corner it had just trapped itself in, grew indignant, and refused the proposition. The amused party decided to try and find someone to sing it once they returned to the Material Plane. Shortly after, the Ghosts faded out of sight, and the ball became still once more.
 
 Finally, the cave narrowed into a tunnel that continued further downriver, obscured in shadow. They could see faint light on the other side. The Wildfire Spirit suddenly stopped moving, and grew incredibly tense. When Amanti asked what was wrong, it told him with dread that he should not enter that cave. Amanti and the party pressed the Wildfire Spirit for more details, but it was reluctant to speak on the issue, saying it would hurt them to know who was in there. Liu was adamant on going into the tunnel, and the party, frustrated at the Wildfire Spirit's cryptic behavior, agreed to follow. After making final preparations, they entered the tunnel.
