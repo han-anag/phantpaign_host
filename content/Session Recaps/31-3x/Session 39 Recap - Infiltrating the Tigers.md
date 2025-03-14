@@ -29,7 +29,7 @@ Finally, the base was empty. The party took the chance to sneak into the captain
 
 The party then heard all of the Tigers return to the base, including guards that stood by the doors to the captain's office. After some panic, the party came up with a plan: Fanna, disguised as the captain, would take Laseen aside privately, ask her where the Maiden's Bells and plant constructs were located. The party would then go from there.
 
-Fanna carefully emerged from the captain's office in their disguise, to the shock of the guards standing by. When asked about it, Fanna said they had gone back early to check things out in their office. They found Laseen accompanied by some grunts, but were able to pull her into a separate storeroom. There, they shed their disguise, then explained themselves to Laseen: They desperately needed a Maiden's Bell and to get Donovan's Plant Constructs back.
+Fanna carefully emerged from the captain's office in their disguise, to the shock of the guards standing by. When asked about it, Fanna said they had gone back early to check things out in their office. They found Laseen accompanied by some grunts, but were able to pull her into a separate storeroom. There, they shed their disguise, then explained themselves to Laseen: They desperately needed a Maiden's Bell and to get Donovan's plant constructs back.
 
 A shocked, but sympathetic Laseen explained how she'd often see the captain take Jinli away privately to administer his "medicine". She's never actually witnessed the actual administering part, but knows that the medicine is stored in the secure vault the Tigers have.
 
@@ -45,7 +45,7 @@ The two groups stared at each other down. Then, Jinli burst through the doors, b
 
 Some of the guards hurriedly gave chase. The party threw some spells at them, including a Thunderwave from Fanna and a Giant Insect from Mei. Once the coast was clear, the party quickly shoved the Maiden's Bell in Mei's hands and told her to go back to the temple. Mei muttered about how the other plant constructs were still out there, but the party assured her they'd go back for them. After remarking that the party had promised her they had everything handled last time, she Fast Traveled back to the temple.
 
-The party found a spot in the wilderness to sleep, not wanting to risk being caught by the Tigers still in town. As they settled down, they resolved to 
+The party found a spot in the wilderness to sleep, not wanting to risk being caught by the Tigers still in town. As they settled down, they resolved to go back and find the rest of the plant constructs the next day. The party long rested, the image of a distressed Jinli coughing up blood lingering uncomfortably in some of their minds.
 
 ## Key Learnings
 - The Tigers of Nam Captain and Jinli regularly excused themselves privately for Jinlin to "take his medicine"
