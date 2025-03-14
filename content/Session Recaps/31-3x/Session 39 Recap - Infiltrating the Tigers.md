@@ -53,6 +53,7 @@ The party found a spot in the wilderness to sleep, not wanting to risk being cau
 - Leferinese associates were helping the Tigers examine Donovan's plant constructs
 - The plant constructs were stored somewhere else not in Fanna's Bag of Holding
 ## Items Of Importance
+- Fancy Looking Mirror
 - Maiden's Bell (1)
 - Plant Construct (1)
 - Fanna's Bag of Holding
