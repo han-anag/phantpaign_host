@@ -56,5 +56,6 @@ The session ended with Brooks and Amanti returning to Bachariel and Mei. After a
 - Brooks has been given Donovan's gun, and instructed not to let anyone else have it under any circumstances.
 - The aftereffects of the rot from Louisa's Needle Dagger has left Donovan disfigured on his right side.
 - Donovan's soul was muddled, and a lot of work would be needed to both heal him Spiritually and physically.
+
 ## Items Of Importance
 - Donovan's gun
