@@ -71,6 +71,17 @@ Action
 Action
 - You have enough power over Ki to manipulate the Weave in strange ways. You may spend 3 Ki points to as an action, attempt to transfer a condition or spell effect, such as Bless, from a creature you can see within 30 feet of you to another.  The targeted creature must make a Constitution saving throw. If the creature is willing, it does not have to make this saving throw. This does not work on the following conditions: Invisible, Unconscious, Petrified, Restrained, Grappled, Prone, Charmed. The new creature must make Constitution saving throws at the end of their turns to break free of the condition, if unwilling. If a creature has broken free from the condition, it cannot be affected by Energy Swap for the next 24 hours. You may use this feature once per long rest. Individual cases are up to the DM's discretion.
 
+**Breath Weapon (External)** Action
+You may spend 1 Ki point to use your action to create an exhalation of magical energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 3d10 damage of the type determined by the table below.
+
+| Die Roll (d20) | Damage Type |
+| -------------- | ----------- |
+| 1-5            | Fire        |
+| 6-9            | Acid        |
+| 10-14          | Poison      |
+| 15-17          | Lightning   |
+| 18-20          | Cold        |
+
 **Summon Familiar (External)**
 Action
 - You may spend 2 Ki points to cast the spell Find Familiar. The familiar can take the form of an external Spirit, AKA one not tied to your essence, or a manifestation of your essence.
