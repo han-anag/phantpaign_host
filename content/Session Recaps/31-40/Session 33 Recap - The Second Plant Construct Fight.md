@@ -1,7 +1,7 @@
 After Lauran enters the party's dreams to offer them a dark deal, the stakes rise as the party tries to find out The Atracidae's plans from Mei before it's too late.
 
 ## Characters Interacted With
-**Lauran:** Appeared to the party in a dream, showing a flashback of the Caochuan Science Fair and Expo terrorist attack and Nadyn's attack on Donovan. Appealed to them to capture Donovan for his studies. Was turned away.
+**Lauran:** Appeared to the party in a dream, showing a flashback of the Taochuan Science Fair and Expo terrorist attack and Nadyn's attack on Donovan. Appealed to them to capture Donovan for his studies. Was turned away.
 
 **Nadyn:** Appeared in the morning with Anahe to deliver the Calabash Containers to the party.
 
@@ -23,7 +23,7 @@ After Lauran enters the party's dreams to offer them a dark deal, the stakes ris
 - Shengdu Colosseum
 
 ## Session Overview
-The session began with the party going to sleep. In their dreams, they relived the moment the terrorists attacked the Caochuan Fair, watching as bombs went off and the maroon-clad Ondinian terrorist group pilfered valuable items from the fair. They also watched the moments that led up to Nadyn attacking Donovan. As the scene played out, Lauran appeared to the party, requesting a favor once again: Bring him Donovan.
+The session began with the party going to sleep. In their dreams, they relived the moment the terrorists attacked the Taochuan Fair, watching as bombs went off and the maroon-clad Ondinian terrorist group pilfered valuable items from the fair. They also watched the moments that led up to Nadyn attacking Donovan. As the scene played out, Lauran appeared to the party, requesting a favor once again: Bring him Donovan.
 
 The party was not very receptive--Amanti thought Lauran wanted Nadyn at first, then also forgot when Lauran appeared to him before in the Ethereal Plane. Thien refused to talk to him, and Brooks dodged the question. Fanna tried to entertain conversation with Lauran, but merely mocked his former caretaker, telling him that he needed to let things go. During the conversation, Fanna remembered a small tidbit of Lauran's past: He had a brother named Altair whom he seemed to have a close bond with, but died in an unknown tragedy before Fanna's creation. In the end, Lauran left empty-handed, but not before telling the party that it'd be better for him and Donovan if the party accepted the deal.
 

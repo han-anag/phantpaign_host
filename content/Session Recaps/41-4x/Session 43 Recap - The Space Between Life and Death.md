@@ -1,4 +1,4 @@
-The party talks to Louisa, and after an emotional conversation, manages to convince her to divert the anti-plant construct activists somewhere else. The party and Donovan learn the terrible truth behind his near-death experience from the Caochuan Fair.
+The party talks to Louisa, and after an emotional conversation, manages to convince her to divert the anti-plant construct activists somewhere else. The party and Donovan learn the terrible truth behind his near-death experience from the Taochuan Fair.
 
 ## Characters Interacted With
 **Mei:** Present when the party confronted Louisa. Broke down once the Binding Vow's true nature was revealed.
@@ -18,7 +18,7 @@ The party talks to Louisa, and after an emotional conversation, manages to convi
 ## Locations
 - Eastern Shengdu Temple
 - River of Life/Ming River Shoreline
-- Caochuan Fair (mentioned)
+- Taochuan Fair (mentioned)
 
 ## Session Overview
 
@@ -67,9 +67,9 @@ Bachariel spoke up again, telling Donovan how having other people care about you
 
 The rest of the party, taking a cue from Bachariel, stepped back a bit as well. Then, the river started glowing. Mist appeared on the river's surface, which quickly formed into the apparition of Lauran. He turned to Donovan, saying how he told Donovan to come alone, revealing that the two also had contact in the past. Donovan mumbled an apology, saying that he had tried to sneak away. Mei, Nadyn, and the party immediately became hostile. Lauran rebuffed them, trying to convince Donovan to ignore them, and that they didn't understand him like he did. When Nadyn and Mei continued to warn Lauran to keep away, he gave a hideous grin, before telling Nadyn that his words were "rich, coming from the guy who killed Donovan". This caused everyone to freeze for a moment, before a confused Donovan went "What?"
 
-Lauran turned to him again, and explained the truth: Donovan had actually died back at the Caochuan Fair, when Nadyn hit him in the back of the head with the rock. He said that if he doubted him, that he could ask Mei and Nadyn. Mei grew angrier, while Nadyn frantically pleaded it was an accident.
+Lauran turned to him again, and explained the truth: Donovan had actually died back at the Taochuan Fair, when Nadyn hit him in the back of the head with the rock. He said that if he doubted him, that he could ask Mei and Nadyn. Mei grew angrier, while Nadyn frantically pleaded it was an accident.
 
-Lauran further explained that the reason Donovan's life was so terrible lately was because the Gods were angry at him for escaping death. Donovan, who had become increasingly distraught, screamed at Lauran, saying that he was lying and necromancy was impossible. Undeterred, Lauran said that Mei had made a Binding Vow back at the Caochuan Fair to grant him a second lease on life. Now terrified, Donovan begged Mei and Nadyn to tell him this wasn't true. Mei, heartbroken, told him she did it to save his life, while Nadyn tearfully apologized.
+Lauran further explained that the reason Donovan's life was so terrible lately was because the Gods were angry at him for escaping death. Donovan, who had become increasingly distraught, screamed at Lauran, saying that he was lying and necromancy was impossible. Undeterred, Lauran said that Mei had made a Binding Vow back at the Taochuan Fair to grant him a second lease on life. Now terrified, Donovan begged Mei and Nadyn to tell him this wasn't true. Mei, heartbroken, told him she did it to save his life, while Nadyn tearfully apologized.
 
 Lauran's words confirmed, Donovan froze up. Lauran leaned in to whisper something to him, before throwing his head back and laughing. Donovan vacantly muttered a few words about wondering if he was ever alive, before suddenly being overcome with pain. The party and NPCS watched in horror as his body underwent an excruciating transformation, the muscles in his right arm rotting and falling off the bone, the plants within his body growing out of control and tearing out skin and flesh, and vines wrapping around his arm before ripping his elbow out of its socket and crushing the bones in his hands.
 
@@ -104,7 +104,7 @@ Right as this happened, Master Hua and Guiying showed up, the government delegat
 	- Detailed sketches of the armour, etc.
 	- The Tigers didn't have enough resources to make the plant constructs themselves
 	- The party knows there's a direct connection with the Leferinese, Lauran (like directly working with them for weapons), and Lauran targeting Donovan as a guinea pig
-- Donovan actually died when Nadyn hit him from behind with a rock at the Caochuan Fair. Through a Binding Vow Mei made with a Spirit, he was able to live again. However, if either of them died, then the other would die as well.
+- Donovan actually died when Nadyn hit him from behind with a rock at the Taochuan Fair. Through a Binding Vow Mei made with a Spirit, he was able to live again. However, if either of them died, then the other would die as well.
 - Michael spoke of a dark incident in his past where he killed an innocent woman.
 
 ## Items Of Importance

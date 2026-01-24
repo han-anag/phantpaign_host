@@ -45,7 +45,7 @@
 
 **Shengdu** (shung-doo): Name of the capital of Lingguo
 
-**Caochuan** (tsao-chuan): The city where the science expo and subsequent terrorist attack took place in
+**Taochuan** (tao-chuan): The city where the science expo and subsequent terrorist attack took place in
 
 **Anshan** (ahn-shawn): A central-eastern province in Lingguo. Known for its biodiversity. Exporter of Pu'er tea.
 
