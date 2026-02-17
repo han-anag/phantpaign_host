@@ -21,7 +21,6 @@ The party talks to Louisa, and after an emotional conversation, manages to convi
 - Taochuan Fair (mentioned)
 
 ## Session Overview
-
 ### The Beginning
 The session began several days after the last one ended. The party walked around for a bit, then went to find Michael to ask him how Donovan was doing. They found him taking a brief break from patrolling the temple eating a sandwich. He explained that Donovan was still alive, thankfully, but still in pretty bad condition. The party asked what exactly was wrong with him regarding the Frayed Threadness and the plants. Michael explained how the rotting and corruptive powers of the Frayed Threads was destroying his body. Ordinarily, the purification process would be straightforward, but the magical plants Donovan had put around his limbs threw a wrench in things. They embedded themselves in his body as a response to the rot, and at first were helpful in fighting it, giving Donovan enough time to make his way to the temple before he collapsed. Now, however, they had become so entangled with his body that a safe removal of them was impractical. In addition, the rot and plants were interacting with each other, making each force more aggressive and causing more disruption in his body. The strange "vine" Donovan vomited up at the end of last session was the result of this.
 
