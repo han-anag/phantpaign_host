@@ -1,10 +1,10 @@
 ## Main (Primary)
 #### Michael Yang
-**Name(s)**: Michael Yang, Yang Haoyu, 羊浩宇, Yang-Shifu
-**Pronouns**: He/him
-**Age**: ;)
-**Race/Species**: Human?
-**Status**: Alive
+- **Name(s)**: Michael Yang, Yang Haoyu, 羊浩宇, Yang-Shifu
+- **Pronouns**: He/him
+- **Age**: ;)
+- **Race/Species**: Human?
+- **Status**: Alive
 A powerful Spirit medium and entertainer. Mentoring Anahe and mentored Nadyn in the past. Friends with Guiying.
 
 #### Donovan Lufei
