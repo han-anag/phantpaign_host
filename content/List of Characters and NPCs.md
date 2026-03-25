@@ -6,7 +6,7 @@
 - **Race/Species**: Human?
 - **Status**: Alive
 
-A powerful Spirit medium and entertainer. Mentoring Anahe and mentored Nadyn in the past. Friends with Guiying.
+First met at the Taochuan Fair. A powerful Spirit medium and entertainer. Mentoring Anahe and mentored Nadyn in the past. Friends with Guiying.
 #### Donovan Lufei
 - **Name(s)**: Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨
 - **Pronouns**: He/him
@@ -87,7 +87,7 @@ Amanti's formerly missing wife and mother of their two sons. Witnessed the horro
 - **Race/Species**: Spirit possessing a Human body
 - **Status**: Alive
 
-Met while the party was in Nam. His sworn older brother, Big Brother Koi Spirit, had secretly taken over the body of the Tigers of Nam boss in the Truong Giang branch, and hoarded Maiden's Bells flowers to try and heal Jinli's physical condition. Brought by the party to the Eastern Shengdu Temple, where Michael healed him. Now is pursuing a career in theater.
+Met while the party was in Nam. His adoptive older brother, Big Brother Koi Spirit, had secretly taken over the body of the Tigers of Nam boss in the Truong Giang branch, and hoarded Maiden's Bells flowers to try and heal Jinli's physical condition. Brought by the party to the Eastern Shengdu Temple, where Michael healed him. Now is pursuing a career in theater.
 ## Current Arc
 #### Yao Lufei
 - **Name(s)**: Yao Lufei, Lufei Yao, 陸費曜
@@ -171,7 +171,7 @@ One of Donovan's (former?) friends. Her family immigrated to Lingguo from Leferi
 - **Race/Species**: High Elf 
 - **Status**: Alive
 
-A High Elven woman extremely proficient in Threadworking magic who uses her talents for tailoring and seamstress services in Shengdu. Allows customers to share a secret with her for a discount. Mei, Donovan, and Michael have all gone to her for her services in the past. Her receptionist is Cillian.
+A High Elven woman extremely proficient in Threadworking magic who uses her talents for tailoring and seamstress services in Shengdu. Allows customers to reveal a secret with her for a discount. Mei, Donovan, and Michael have all gone to her for her services in the past. Her receptionist is Cillian.
 #### Cillian
 - **Name(s)**: Cillian, Cillian Moore
 - **Pronouns**: He/him
@@ -218,7 +218,7 @@ A recent immigrant from Ondinia, presumably escaping the Yumalyan Civil War. Gav
 - **Name(s)**: Aoife, Aoife Lufei
 - **Pronouns**: She/her
 - **Age**: Mid-30s at death
-- **Race/Species**: Human
+- **Race/Species**: Spirit, Human when alive
 - **Status**: Deceased
 
 Donovan's deceased mother and wife of Yao. Intervened in Lidong when the villagers attempted to attack Daina and her baby and chase them out. Cared about her son deeply.
@@ -255,13 +255,14 @@ Jinli's adoptive big brother, whom possessed the body of the former Truong Giang
 - **Race/Species**: Human
 - **Status**: Alive
 
-Thien's doting mother. Works as a carpenter with her husband, Le Dang Minh. An avid fan of Kite Flying Battles. Seems a little self-conscious about her weight, much to Thien and her husband's sadness. Has a bit of a rivalry with the local Trang family that owns a mediocre dumpling house after she outbid them for a new decoration for the house. Hosted the party whilst they were in Nam.
+Thien's doting mother. Works as a carpenter with her husband, Le Dang Minh. An avid fan of Kite Flying Battles. Seems a little self-conscious about her weight, much to Thien and her husband's sadness. Has a bit of a rivalry with the local Trang family that owns a mediocre dumpling house after she outbid them for a new house decoration. Hosted the party whilst they were in Nam.
 #### Thien's Father
 - **Name(s)**: Thien's Father, Le Dang Minh
 - **Pronouns**: He/him
 - **Age**: Late 40s
 - **Race/Species**: Human
 - **Status**: Alive
+
 Thien's doting father. Works as a carpenter with his wife, Do Thi Ngoc Linh. Happily listens to Nam's Next Top Idol with his wife in the evenings. Hosted the party whilst they were in Nam.
 #### Laseen
 - **Name(s)**: Laseen
@@ -296,6 +297,14 @@ An executioner, responsible for ending the lives of condemned criminals. Has ver
 - **Status**: Unknown
 
 Amanti's other missing son. Volunteered to join the Traditionalists--the losing side--of the Yumalyan Civil War, shortly before violence officially broke out. Has not been seen by his family since.
+#### General Durand
+- **Name(s)**: General Durand
+- **Pronouns**: He/him
+- **Age**: ???
+- **Race/Species**: 
+- **Status**: Alive
+
+A top general in Leferin. Recently wrapped up his diplomatic tour of Lingguo, where he met with Empress Wu, the current leader of Lingguo. May have been part of correspondences with the Tigers of Nam in the past. Accompanied by a Leferinese Eagle.
 #### Altair
 - **Name(s)**: Altair, Altair Howl
 - **Pronouns**: He/him
@@ -311,5 +320,4 @@ Lauran's brother. The circumstances around his death are unknown to the party.
 - **Race/Species**: God
 - **Status**: Alive
 
-The goddess of oblivion, who waits at the Naihe bridge in the Underworld to serve people her signature Soup of Forgetfulness, ensuring that they do not remember their past lives before being reincarnated. Appears throughout the mortal world harvesting herbs for her soup, where she occasionally tests mortals by pretending to be a young woman needing help crossing the river for her own amusement. Appears to be familiar with Michael, knowing his former name from his youth. Is an actual person in Chinese mythology and folklore lmao.
-
+The goddess of oblivion, who waits at the Naihe bridge in the Underworld to serve people her signature Soup of Forgetfulness, ensuring that they do not remember their past lives before being reincarnated. Occasionally throughout the mortal world harvesting herbs for her soup, where she sometimes tests mortals by pretending to be a young woman needing help crossing the river for her own amusement. Seems to be familiar with Michael, knowing his former name from his youth. Is an actual person in Chinese mythology and folklore lmao.
