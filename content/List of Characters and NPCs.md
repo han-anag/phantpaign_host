@@ -301,7 +301,7 @@ Amanti's other missing son. Volunteered to join the Traditionalists--the losing 
 - **Name(s)**: General Durand
 - **Pronouns**: He/him
 - **Age**: ???
-- **Race/Species**: 
+- **Race/Species**: Air Genasi
 - **Status**: Alive
 
 A top general in Leferin. Recently wrapped up his diplomatic tour of Lingguo, where he met with Empress Wu, the current leader of Lingguo. May have been part of correspondences with the Tigers of Nam in the past. Accompanied by a Leferinese Eagle.
@@ -321,3 +321,4 @@ Lauran's brother. The circumstances around his death are unknown to the party.
 - **Status**: Alive
 
 The goddess of oblivion, who waits at the Naihe bridge in the Underworld to serve people her signature Soup of Forgetfulness, ensuring that they do not remember their past lives before being reincarnated. Occasionally throughout the mortal world harvesting herbs for her soup, where she sometimes tests mortals by pretending to be a young woman needing help crossing the river for her own amusement. Seems to be familiar with Michael, knowing his former name from his youth. Is an actual person in Chinese mythology and folklore lmao.
+
