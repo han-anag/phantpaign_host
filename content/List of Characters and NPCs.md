@@ -280,7 +280,7 @@ The eldest daughter from a long line of pit fighters. As her parents are quite o
 - **Status**: Deceased
 
 A darker, more sinister version of Fanna that split off from their Soul and became its own being. Regularly harassed or ransacked innocent Namese businesses, got into fights with the Tigers of Nam, and even stole Jinli's treasured Koi fish necklace from him. The party took it back after they caught the Fanna Echo spying on them. Was destroyed after Thien stayed behind in the crumbling Tigers of Nam base to ensure it was defeated once and for all.
-### Other
+## Other
 #### Sir Haishan
 - **Name(s)**: Sir Haishan
 - **Pronouns**: He/him
