@@ -40,7 +40,7 @@ Manages the Eastern Shengdu Temple with her dad, Master Hua. A long-time close f
 
 A self-proclaimed Necromancer who was previously cast out by the other High Elves for his horrific magic. The "father" or creator of Fanna. Had a brother in the past named Altair.
 #### Master Hua
-- **Name(s)**: Master Hua, Hua Tuo, 华佗
+- **Name(s)**: Master Hua, Hua Tuo, 华佗, Hua-Shifu
 - **Pronouns**: He/him
 - **Age**: 900-1000
 - **Race/Species**: High Elf
@@ -49,7 +49,7 @@ A self-proclaimed Necromancer who was previously cast out by the other High Elve
 The head of the Eastern Shengdu Temple, and Guiying's father. Specializes in healing and medicine. Graciously puts up with the party and allows them to room in his temple. Knew Lauran in the past.
 ## Secondary
 #### Soup
-- **Name(s)**: Soup the Hundun
+- **Name(s)**: Soup, Soup the Hundun
 - **Pronouns**: Whatever
 - **Age**: ???
 - **Race/Species**: Hundun 
@@ -57,7 +57,7 @@ The head of the Eastern Shengdu Temple, and Guiying's father. Specializes in hea
 
 A small Hundun whom the party rescued from Ayer's office. A being of chaos who becomes more disruptive the more chaotic the party acts toward each other and others. Fluffy and cute.
 #### Nadyn Donaurkos
-- **Name(s)**: Nadyn Donaurkos
+- **Name(s)**: Nadyn, Nadyn Donaurkos
 - **Pronouns**: He/him
 - **Age**: 23
 - **Race/Species**: Human
@@ -73,7 +73,7 @@ Amanti's formerly estranged son, whom he has a strained relationship with. Forme
 
 Michael's apprentice, whom he took in a couple years ago. Has the uncanny ability to sense people's emotions.
 #### Louisa Donaurkos
-- **Name(s)**: Louisa Donaurkos
+- **Name(s)**: Louisa, Louisa Donaurkos
 - **Pronouns**: She/her
 - **Age**: Late 40s-Early 50s
 - **Race/Species**: Human
@@ -90,7 +90,7 @@ Amanti's formerly missing wife and mother of their two sons. Witnessed the horro
 Met while the party was in Nam. His adoptive older brother, Big Brother Koi Spirit, had secretly taken over the body of the Tigers of Nam boss in the Truong Giang branch, and hoarded Maiden's Bells flowers to try and heal Jinli's physical condition. Brought by the party to the Eastern Shengdu Temple, where Michael healed him. Now is pursuing a career in theater.
 ## Current Arc
 #### Yao Lufei
-- **Name(s)**: Yao Lufei, Lufei Yao, 陸費曜
+- **Name(s)**: Yao, Yao Lufei, Lufei Yao, 陸費曜
 - **Pronouns**: He/him
 - **Age**: 60s
 - **Race/Species**: Human
@@ -116,7 +116,7 @@ The village healer in Junyan, whom was Liu's contact for the information about U
 ## Past Arcs
 ### The Taochuan Fair
 #### Zephyra
-- **Name(s)**: Zephyra Liang
+- **Name(s)**: Zephyra, Zephyra Liang
 - **Pronouns**: She/her
 - **Age**: Late 30s-Early 40s in Human years
 - **Race/Species**: Half-elf
@@ -182,7 +182,7 @@ A High Elven woman extremely proficient in Threadworking magic who uses her tale
 The cheerful receptionist for the enigmatic Lady Sangshu's services. A creation bard who enjoys weaving creatures, especially insects, out of grass. Also from Anshan Province.
 ### The Factory Upriver
 #### Ayer Barrett
-- **Name(s)**: Ayer Barrett, Argent Liang
+- **Name(s)**: Ayer, Ayer Barrett, Argent Liang
 - **Pronouns**: He/him
 - **Age**: 50s in Human years, ~100 in Half-elf years
 - **Race/Species**: Half-elf
