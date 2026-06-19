@@ -21,17 +21,17 @@
 > | **Age**: | Early-mid 30s                                     |
 > | **Race/Species**: | Human                                             |
 > | **Status**: | It's complicated                                  |
-> ##### Summary
- > First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
->> [!warning]- Click to reveal his current appearance
->> ![[phantpaign_donovan_corruption.png|400]]
+> First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
+
+>[!warning]- Click to reveal his current appearance
+>![[phantpaign_donovan_corruption.png|400]]
 
 #### Mei Zhang
 > ![[pants0323WM.png|500]]
 > Art by Hskachu
 > 
-> | Title             | Title                                             |
-> | ----------------- | ---------------- |
+> |  |                                           |
+> | --- | ---------------- |
 > | **Name(s)**:      | text |
 > | **Pronouns**:     | text                                       |
 > | **Age**:          | text                                  |
@@ -42,8 +42,8 @@
 #### Guiying Mu
 > ![[guiying_token.png]]
 >
-> | Title             | Title                                             |
-> | ----------------- | ---------------- |
+> |            |                                            |
+> | ---- | ---------------- |
 > | **Name(s)**:      | Guiying, 桂英, Mu Guiying, 穆桂英 |
 > | **Pronouns**:     | She/her                                      |
 > | **Age**:          | ~350-400                                  |
@@ -55,7 +55,7 @@
 > ![[phantpaign_lauran_compressed.png|400]]
 > ![[phantpaign_lauran_hanfu.png|400]]
 >
-> |                                  |     |
+> |  |     |
 > | --- | --- |
 > | **Name(s)**: | Lauran, Lauran Howl    |
 > | **Pronouns**:  | He/him     |
@@ -63,72 +63,107 @@
 > | **Race/Species**:  | High Elf |
 > | **Status**: | Alive |
 > A self-proclaimed Necromancer who was previously cast out by the other High Elves for his horrific magic. The "father" or creator of Fanna. Had a brother in the past named Altair.
-#### Master Hua
-- **Name(s)**: Master Hua, Hua Tuo, 华佗, Hua-Shifu
-- **Pronouns**: He/him
-- **Age**: 900-1000
-- **Race/Species**: High Elf
-- **Status**: Alive
 
-The head of the Eastern Shengdu Temple, and Guiying's father. Specializes in healing and medicine. Graciously puts up with the party and allows them to room in his temple. Knew Lauran in the past.
+#### Master Hua
+> ![[hua tuo koei wiki.png|400]]
+> [Picture from Koei Wiki](https://koei.fandom.com/wiki/Hua_Tuo?file=Hua_Tuo_%28ROTKHD%29.png#Romance_of_the_Three_Kingdoms)
+> 
+> |   |     |
+> | --- | --- |
+> | **Name(s)**:  | Master Hua, Hua Tuo, 华佗, Hua-Shifu    |
+> | **Pronouns**: | He/him                                |
+> | **Age**:   | 900-1000                                 |
+> | **Race/Species**:  |  High Elf                        |
+> | **Status**:   | Alive                                 |
+> The head of the Eastern Shengdu Temple, and Guiying's father. Specializes in healing and medicine. Graciously puts up with the party and allows them to room in his temple. Knew Lauran in the past.
 ## Secondary
 #### Soup
-- **Name(s)**: Soup, Soup the Hundun
-- **Pronouns**: Whatever
-- **Age**: ???
-- **Race/Species**: Hundun 
-- **Status**: ???
+> ![[soupcolors1.png|400]]
+> 
+> | |     |
+> | --- | --- |
+> | **Name(s)**: | Soup, Soup the Hundun     |
+> | **Pronouns**: |Whatever                  |
+> | **Age**:  |???                           |
+> | **Race/Species**:  |Hundun               |
+> | **Status**:  | ???                       |
+> A small Hundun whom the party rescued from Ayer's office. A being of chaos who becomes more disruptive the more chaotic the party acts toward each other and others. Fluffy and cute.
 
-A small Hundun whom the party rescued from Ayer's office. A being of chaos who becomes more disruptive the more chaotic the party acts toward each other and others. Fluffy and cute.
 #### Nadyn Donaurkos
-- **Name(s)**: Nadyn, Nadyn Donaurkos
-- **Pronouns**: He/him
-- **Age**: 23
-- **Race/Species**: Human
-- **Status**: Alive
+> ![[Nadyn_token.png]]
+>
+> | |     |
+> | --- | --- |
+> | **Name(s)**: | Nadyn, Nadyn Donaurkos     |
+> | **Pronouns**: | He/him                    |
+> | **Age**: | 23                             |
+> | **Race/Species**: | Human                 |
+> | **Status**:  | Alive                      |
+> Amanti's formerly estranged son, whom he has a strained relationship with. Formerly enlisted in the Yumalyan Civil War, not by choice, on the Modernists--the winning--side. The one who (almost) killed Donovan.
 
-Amanti's formerly estranged son, whom he has a strained relationship with. Formerly enlisted in the Yumalyan Civil War, not by choice, on the Modernists--the winning--side.
 #### Anahe
-- **Name(s)**: Anahe
-- **Pronouns**: She/her
-- **Age**: 16
-- **Race/Species**: Tiefling
-- **Status**: Alive
+> ![[anahe_token.png]]
+>
+> |    |     |
+> | --- | --- |
+> | **Name(s)**:  | Anahe            |
+> | **Pronouns**:   | She/her        |
+> | **Age**:  | 16                   |
+> | **Race/Species**:  | Tiefling    |
+> | **Status**:   | Alive            |
+> Michael's apprentice, whom he took in a couple years ago. Has the uncanny ability to sense people's emotions.
 
-Michael's apprentice, whom he took in a couple years ago. Has the uncanny ability to sense people's emotions.
 #### Louisa Donaurkos
-- **Name(s)**: Louisa, Louisa Donaurkos
-- **Pronouns**: She/her
-- **Age**: Late 40s-Early 50s
-- **Race/Species**: Human
-- **Status**: Alive
+> ![[louisa biggest_bee.png|400]]
+> Art by biggest_bee
+> |  |     |
+> | --- | --- |
+> | **Name(s)**:  | Louisa, Louisa Donaurkos    |
+> | **Pronouns**:  | She/her                    |
+> | **Age**:  | Late 40s-Early 50s              |
+> | **Race/Species**:   | Human                 |
+> | **Status**:  | Alive                        |
+> Amanti's formerly missing wife and mother of their two sons. Witnessed the horrors of the Yumalyan Civil War, and was radicalized to join The Atracidae as a result. Sought to completely stop Donovan and his plant constructs to prevent what she saw as a repeating of the factors that led to the war.
 
-Amanti's formerly missing wife and mother of their two sons. Witnessed the horrors of the Yumalyan Civil War, and was radicalized to join The Atracidae as a result. Sought to completely stop Donovan and his plant constructs to prevent what she saw as a repeating of the factors that led to the war.
 #### Jinli
-- **Name(s)**: Jinli
-- **Pronouns**: He/him
-- **Age**: 12
-- **Race/Species**: Spirit possessing a Human body
-- **Status**: Alive
+> ![[phantpaign_jinli_koi_spirit.png|400]]
+> ![[jinli_carp_spirit_token.png]]
+>
+> |   |     |
+> | --- | --- |
+> | **Name(s)**:   | Jinli                                 |
+> | **Pronouns**:  | He/him                                |
+> | **Age**:   | 12                                        |
+> | **Race/Species**:  | Spirit possessing a Human body    |
+> | **Status**:   | Alive                                  |
+> 
+> Met while the party was in Nam. His adoptive older brother, Big Brother Koi Spirit, had secretly taken over the body of the Tigers of Nam boss in the Truong Giang branch, and hoarded Maiden's Bells flowers to try and heal Jinli's physical condition. Brought by the party to the Eastern Shengdu Temple, where Michael healed him. Now is pursuing a career in theater.
 
-Met while the party was in Nam. His adoptive older brother, Big Brother Koi Spirit, had secretly taken over the body of the Tigers of Nam boss in the Truong Giang branch, and hoarded Maiden's Bells flowers to try and heal Jinli's physical condition. Brought by the party to the Eastern Shengdu Temple, where Michael healed him. Now is pursuing a career in theater.
 ## Current Arc
 #### Yao Lufei
-- **Name(s)**: Yao, Yao Lufei, Lufei Yao, 陸費曜
-- **Pronouns**: He/him
-- **Age**: 60s
-- **Race/Species**: Human
-- **Status**: Alive
+> ![[yao_lufei_token.png]]
+>
+> |  |     |
+> | --- | --- |
+> | **Name(s)**:  | Yao, Yao Lufei, Lufei Yao, 陸費曜    |
+> | **Pronouns**:   | He/him                          |
+> | **Age**:  | 60s                                   |
+> | **Race/Species**:   | Human                       |
+> | **Status**:  | Alive                              |
+> Donovan's father. Owns an inn at their home village of Lidong and is a council member. Tends to be very set in his opinions, yet rather kind and forgiving in surprising ways. Plays the erhu.
 
-Donovan's father. Owns an inn at their home village of Lidong and is a council member. Tends to be very set in his opinions, yet rather kind and forgiving in surprising ways. Plays the erhu.
 #### Liu
-- **Name(s)**: Liu, 流
-- **Pronouns**: He/They
-- **Age**: Early 20s in Human years
-- **Race/Species**: Aarakocra
-- **Status**: Alive
+> ![[liu_aarakocra.png]]
+>
+> |  |     |
+> | --- | --- |
+> | **Name(s)**:   | Liu, 流                 |
+> | **Pronouns**:  | He/They                |
+> | **Age**:  | Early 20s in Human years    |
+> | **Race/Species**:  | Aarakocra          |
+> | **Status**:  | Alive                    |
+> A member of an adventuring party that Michael also mentors. Previously went to the party for help after his party got trapped in the Ethereal/Spirit Plane. Now asking them for help in investigating Undead occurrences in his home village of Junyan.
 
-A member of an adventuring party that Michael also mentors. Previously went to the party for help after his party got trapped in the Ethereal/Spirit Plane. Now asking them for help in investigating Undead occurrences in his home village of Junyan.
 #### Healer Danxia
 - **Name(s)**: Healer Danxia, 丹霞, Danxia
 - **Pronouns**: She/her
