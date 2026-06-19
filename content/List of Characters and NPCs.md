@@ -14,13 +14,13 @@
 #### Donovan Lufei
 > ![[donovan_headshot.png|500]]
 > 
-> |             |                                             |
-> | ----------------- | ------------------------------------------------- |
+> | | |
+> | --- | --- |
 > | **Name(s)**: | Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨 |
-> | **Pronouns**:  | He/him                                            |
-> | **Age**: | Early-mid 30s                                     |
-> | **Race/Species**: | Human                                             |
-> | **Status**: | It's complicated                                  |
+> | **Pronouns**: | He/him |
+> | **Age**: | Early-mid 30s |
+> | **Race/Species**: | Human |
+> | **Status**: | It's complicated |
 > First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
 
 >[!warning]- Click to reveal his current appearance
