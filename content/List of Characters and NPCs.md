@@ -32,11 +32,11 @@
 > 
 > |  |                                           |
 > | --- | ---------------- |
-> | **Name(s)**:      | text |
-> | **Pronouns**:     | text                                       |
-> | **Age**:          | text                                  |
-> | **Race/Species**: | text                                      |
-> | **Status**:       | text                              |
+> | **Name(s)**:      | Mei Zhang, Zhang Mei, 张梅|
+> | **Pronouns**:     | She/her                                      |
+> | **Age**:          | Late 20s-Early 30s in human years                             |
+> | **Race/Species**: | Wood Elf                                  |
+> | **Status**:       | Alive                           |
 > First met at the Taochuan Fair on a counter-reconnaissance mission against a suspected Ondinian terrorist group. Member of The Atracidae, a vigilante-at-times environmental protection activist group.
 
 #### Guiying Mu
@@ -66,7 +66,7 @@
 
 #### Master Hua
 > ![[hua tuo koei wiki.png|400]]
-> [Picture from Koei Wiki](https://koei.fandom.com/wiki/Hua_Tuo?file=Hua_Tuo_%28ROTKHD%29.png#Romance_of_the_Three_Kingdoms)
+> <br>[Picture from Koei Wiki](https://koei.fandom.com/wiki/Hua_Tuo?file=Hua_Tuo_%28ROTKHD%29.png#Romance_of_the_Three_Kingdoms)
 > 
 > |   |     |
 > | --- | --- |
@@ -91,6 +91,7 @@
 
 #### Nadyn Donaurkos
 > ![[Nadyn_token.png]]
+> <br> Art by biggest_bee
 >
 > | |     |
 > | --- | --- |
@@ -115,7 +116,8 @@
 
 #### Louisa Donaurkos
 > ![[louisa biggest_bee.png|400]]
-> Art by biggest_bee
+> <br> Art by biggest_bee
+> 
 > |  |     |
 > | --- | --- |
 > | **Name(s)**:  | Louisa, Louisa Donaurkos    |
@@ -126,8 +128,8 @@
 > Amanti's formerly missing wife and mother of their two sons. Witnessed the horrors of the Yumalyan Civil War, and was radicalized to join The Atracidae as a result. Sought to completely stop Donovan and his plant constructs to prevent what she saw as a repeating of the factors that led to the war.
 
 #### Jinli
+> ![[jinli_carp_spirit_token.png]] <br>
 > ![[phantpaign_jinli_koi_spirit.png|400]]
-> ![[jinli_carp_spirit_token.png]]
 >
 > |   |     |
 > | --- | --- |
@@ -165,13 +167,18 @@
 > A member of an adventuring party that Michael also mentors. Previously went to the party for help after his party got trapped in the Ethereal/Spirit Plane. Now asking them for help in investigating Undead occurrences in his home village of Junyan.
 
 #### Healer Danxia
-- **Name(s)**: Healer Danxia, 丹霞, Danxia
-- **Pronouns**: She/her
-- **Age**: 50s
-- **Race/Species**: Halfling
-- **Status**: Alive
+> ![[phantpaign_healer_danxia.png|400]]
+>
+> |    |     |
+> | --- | --- |
+> | **Name(s)**:  | Healer Danxia, 丹霞, Danxia    |
+> | **Pronouns**:   |  She/her                   |
+> | **Age**:  | 50s                              |
+> | **Race/Species**:   | Halfling               |
+> | **Status**:  | Alive                         |
+>
+> The village healer in Junyan, whom was Liu's contact for the information about Undead. Lives by a large waterfall on the north side of the village. 
 
-The village healer in Junyan, whom was Liu's contact for the information about Undead. Lives by a large waterfall on the north side of the village. 
 ## Past Arcs
 ### The Taochuan Fair
 #### Zephyra
@@ -239,6 +246,8 @@ A High Elven woman extremely proficient in Threadworking magic who uses her tale
 - **Status**: Alive
 
 The cheerful receptionist for the enigmatic Lady Sangshu's services. A creation bard who enjoys weaving creatures, especially insects, out of grass. Also from Anshan Province.
+
+Yes, he's canon to this setting.
 ### The Factory Upriver
 #### Ayer Barrett
 - **Name(s)**: Ayer, Ayer Barrett, Argent Liang
@@ -258,6 +267,8 @@ Owned a weapons-manufacturing upriver of the Ming River/River of Life. Killed by
 The leader of a Kobold tribe that lives alongside the Ming River. The party helped save her and a neighboring friendly Kobold tribe after Ayer's factory upriver caused their sources of food to be contaminated or dried up. Currently in possession of the River Dragon's Pearl, whom Ayer had stolen.
 ### Journey into Anshan
 #### Yinghua
+![[yinghua_token.png]]
+![[yinghua_doodle_ref.png|400]]
 - **Name(s)**: Yinghua, 樱花
 - **Pronouns**: She/her
 - **Age**: Mid-20s in Human years
@@ -266,6 +277,7 @@ The leader of a Kobold tribe that lives alongside the Ming River. The party help
 
 An Atracidae member whom Mei mentored and took in. Cared deeply about Mei, and looked at her complicated relationship with Louisa and Donovan with sorrow. Sacrificed her life and existence in The Weave to protect the party and Mei from the Taotie.
 #### Daina
+![[daina_token.png]]
 - **Name(s)**: Daina
 - **Pronouns**: She/her
 - **Age**: Mid-20s
@@ -274,6 +286,8 @@ An Atracidae member whom Mei mentored and took in. Cared deeply about Mei, and l
 
 A recent immigrant from Ondinia, presumably escaping the Yumalyan Civil War. Gave birth to a half-Spirit baby after an encounter with a Spirit on her way to Lidong. Harassed by the village who was suspicious of her origins, assuming her and her baby were malicious Spirits--or Fey, as they are called in Anshan. Yao Lufei attempted to protect her and gave her shelter free of charge. Escaped to Shengdu with the party, Mei, and Yinghua's help, and now works at Ljubica and Iskra's restuarant.
 #### Aoife Lufei
+![[aoife_eva_donovan's_mom.png|400]]
+![[picrew_1738886451926662.png|400]]
 - **Name(s)**: Aoife, Aoife Lufei
 - **Pronouns**: She/her
 - **Age**: Mid-30s at death
@@ -373,6 +387,8 @@ A top general in Leferin. Recently wrapped up his diplomatic tour of Lingguo, wh
 
 Lauran's brother. The circumstances around his death are unknown to the party.
 #### Meng Po
+![[meng po.png|400]]
+[Unfortunately I cannot find the exact original source, but this page has a watermarked image](https://zhuanlan.zhihu.com/p/395100577)
 - **Name(s)**: Meng Po, Lady Meng
 - **Pronouns**: She/her
 - **Age**: Uncountable
