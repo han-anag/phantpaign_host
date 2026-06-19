@@ -1,47 +1,56 @@
 ## Main (Primary)
 #### Michael Yang
-- **Name(s)**: Michael Yang, Yang Haoyu, 羊浩宇, Yang-Shifu
-- **Pronouns**: He/him
-- **Age**: ;)
-- **Race/Species**: Human?
-- **Status**: Alive
+> ![[p5_michael_test 1.png]]
+>
+> |                                                        |     |
+> | ------------------------------------------------------ | --- |
+> | **Name(s)**:  | Michael Yang, Yang Haoyu, 羊浩宇, Yang-Shifu  |
+> | **Pronouns**:                                   | He/him     |
+> | **Age**:                                             | ;)    |
+> | **Race/Species**:                           | Human?         |
+> | **Status**:                                    | Alive       |
+> First met at the Taochuan Fair. A powerful Spirit medium and entertainer. Mentoring Anahe and mentored Nadyn in the past. Friends with Guiying.
 
-First met at the Taochuan Fair. A powerful Spirit medium and entertainer. Mentoring Anahe and mentored Nadyn in the past. Friends with Guiying.
-> [!infobox|no-title center wikipedia wfull]
-> # Donovan Lufei
-> ![[donovan_headshot.png|400]]
+#### Donovan Lufei
+> ![[donovan_headshot.png|500]]
 > 
-> | | |
-> | ---- | --- |
-> | **Name(s)**:  | Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨 |
-> | **Pronouns**: | He/him |
-> | **Age**: | Early-mid 30s |
-> | **Race/Species**: | Human |
-> | **Status**: | It's complicated |
+> |             |                                             |
+> | ----------------- | ------------------------------------------------- |
+> | **Name(s)**:      | Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨 |
+> | **Pronouns**:     | He/him                                            |
+> | **Age**:          | Early-mid 30s                                     |
+> | **Race/Species**: | Human                                             |
+> | **Status**:       | It's complicated                                  |
 > ##### Summary
-> First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
-
-> [!warning]- Click to reveal his current appearance
-> ![[phantpaign_donovan_corruption.png|400]]
-
-First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
+ > First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
+>> [!warning]- Click to reveal his current appearance
+>> ![[phantpaign_donovan_corruption.png|400]]
 
 #### Mei Zhang
-- **Name(s)**: Mei, Mei Zhang, Zhang Mei, 张梅
-- **Pronouns**: She/her
-- **Age**: Early 30s-Late 20s in Human years
-- **Race/Species**: Wood Elf
-- **Status**: Alive
+> ![[pants0323WM.png|500]]
+> Art by Hskachu
+> 
+> | Title             | Title                                             |
+> | ----------------- | ------------------------------------------------- |
+> | **Name(s)**:      | text |
+> | **Pronouns**:     | text                                       |
+> | **Age**:          | text                                  |
+> | **Race/Species**: | text                                      |
+> | **Status**:       | text                              |
+> First met at the Taochuan Fair on a counter-reconnaissance mission against a suspected Ondinian terrorist group. Member of The Atracidae, a vigilante-at-times environmental protection activist group.
 
-First met at the Taochuan Fair on a counter-reconnaissance mission against a suspected Ondinian terrorist group. Member of The Atracidae, a vigilante-at-times environmental protection activist group.
 #### Guiying Mu
-- **Name(s)**: Guiying, 桂英, Mu Guiying, 穆桂英
-- **Pronouns**: She/her
-- **Age**: ~350-400
-- **Race/Species**: Elf (through a High Elven and Elven relationship)
-- **Status**: Alive
+> 
+>
+> | Title             | Title                                             |
+> | ----------------- | ------------------------------------------------- |
+> | **Name(s)**:      | Guiying, 桂英, Mu Guiying, 穆桂英 |
+> | **Pronouns**:     | She/her                                      |
+> | **Age**:          | ~350-400                                  |
+> | **Race/Species**: | Elf (through a High Elven and Elven relationship)                                     |
+> | **Status**:       | Alive                             |
+> Manages the Eastern Shengdu Temple with her dad, Master Hua. A long-time close friend of Michael. Kindly and earnest. Well-learned in healing magic passed down from her father.
 
-Manages the Eastern Shengdu Temple with her dad, Master Hua. A long-time close friend of Michael. Kindly and earnest. Well-learned in healing magic passed down from her father.
 #### Lauran Howl
 - **Name(s)**: Lauran, Lauran Howl
 - **Pronouns**: He/him
