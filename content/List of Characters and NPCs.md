@@ -10,14 +10,15 @@ First met at the Taochuan Fair. A powerful Spirit medium and entertainer. Mentor
 > [!info]
 > #### Donovan Lufei
 > ![[donovan_headshot.png|400]]
-> >> [!tip]- Click to reveal his current appearance
-> >> ![[phantpaign_donovan_corruption.png|400]]
-> - **Name(s)**: Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨
-> - **Pronouns**: He/him
-> - **Age**: Early-mid 30s
-> - **Race/Species**: Human
-> - **Status**: It's complicated
+>> [!warning]- Click to reveal his current appearance
+>> ![[phantpaign_donovan_corruption.png|400]]
+- **Name(s)**: Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨
+- **Pronouns**: He/him
+- **Age**: Early-mid 30s
+- **Race/Species**: Human
+- **Status**: It's complicated
 First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
+
 #### Mei Zhang
 - **Name(s)**: Mei, Mei Zhang, Zhang Mei, 张梅
 - **Pronouns**: She/her
