@@ -9,6 +9,7 @@
 > | **Age**:  | ;)        |
 > | **Race/Species**:  | Human?         |
 > | **Status**: | Alive       |
+> 
 > First met at the Taochuan Fair. A powerful Spirit medium and entertainer. Mentoring Anahe and mentored Nadyn in the past. Friends with Guiying.
 
 #### Donovan Lufei
@@ -21,6 +22,7 @@
 > | **Age**: | Early-mid 30s     |
 > | **Race/Species**: | Human     |
 > | **Status**: | It's complicated     |
+> 
 > First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
 
 >[!warning]- Click to reveal his current appearance
@@ -37,6 +39,7 @@
 > | **Age**:          | Late 20s-Early 30s in human years                             |
 > | **Race/Species**: | Wood Elf                                  |
 > | **Status**:       | Alive                           |
+> 
 > First met at the Taochuan Fair on a counter-reconnaissance mission against a suspected Ondinian terrorist group. Member of The Atracidae, a vigilante-at-times environmental protection activist group.
 
 #### Guiying Mu
@@ -49,6 +52,7 @@
 > | **Age**:          | ~350-400                                  |
 > | **Race/Species**: | Elf (through a High Elven and Elven relationship)                                     |
 > | **Status**:       | Alive                             |
+> 
 > Manages the Eastern Shengdu Temple with her dad, Master Hua. A long-time close friend of Michael. Kindly and earnest. Well-learned in healing magic passed down from her father.
 
 #### Lauran Howl
@@ -62,6 +66,7 @@
 > | **Age**: | 700+ years          |
 > | **Race/Species**:  | High Elf         |
 > | **Status**: | Alive     |
+> 
 > A self-proclaimed Necromancer who was previously cast out by the other High Elves for his horrific magic. The "father" or creator of Fanna. Had a brother in the past named Altair.
 
 #### Master Hua
@@ -75,6 +80,7 @@
 > | **Age**:   | 900-1000                                 |
 > | **Race/Species**:  |  High Elf                        |
 > | **Status**:   | Alive                                 |
+> 
 > The head of the Eastern Shengdu Temple, and Guiying's father. Specializes in healing and medicine. Graciously puts up with the party and allows them to room in his temple. Knew Lauran in the past.
 ## Secondary
 #### Soup
@@ -88,6 +94,7 @@
 > | **Age**:  |???                           |
 > | **Race/Species**:  |Hundun                   |
 > | **Status**:  | ???                           |
+> 
 > A small Hundun whom the party rescued from Ayer's office. A being of chaos who becomes more disruptive the more chaotic the party acts toward each other and others. Fluffy and cute.
 
 #### Nadyn Donaurkos
@@ -101,6 +108,7 @@
 > | **Age**: | 23                             |
 > | **Race/Species**: | Human                     |
 > | **Status**:  | Alive                          |
+> 
 > Amanti's formerly estranged son, whom he has a strained relationship with. Formerly enlisted in the Yumalyan Civil War, not by choice, on the Modernists--the winning--side. The one who (almost) killed Donovan.
 
 #### Anahe
@@ -113,6 +121,7 @@
 > | **Age**:  | 16                       |
 > | **Race/Species**:  | Tiefling            |
 > | **Status**:   | Alive                |
+> 
 > Michael's apprentice, whom he took in a couple years ago. Has the uncanny ability to sense people's emotions.
 
 #### Louisa Donaurkos
@@ -126,6 +135,7 @@
 > | **Age**:  | Late 40s-Early 50s              |
 > | **Race/Species**:   | Human                 |
 > | **Status**:  | Alive                        |
+> 
 > Amanti's formerly missing wife and mother of their two sons. Witnessed the horrors of the Yumalyan Civil War, and was radicalized to join The Atracidae as a result. Sought to completely stop Donovan and his plant constructs to prevent what she saw as a repeating of the factors that led to the war.
 
 #### Jinli
@@ -153,6 +163,7 @@
 > | **Age**:  | 60s                                   |
 > | **Race/Species**:   | Human                       |
 > | **Status**:  | Alive                              |
+> 
 > Donovan's father. Owns an inn at their home village of Lidong and is a council member. Tends to be very set in his opinions, yet rather kind and forgiving in surprising ways. Plays the erhu.
 
 #### Liu
@@ -165,6 +176,7 @@
 > | **Age**:  | Early 20s in Human years    |
 > | **Race/Species**:  | Aarakocra          |
 > | **Status**:  | Alive                    |
+> 
 > A member of an adventuring party that Michael also mentors. Previously went to the party for help after his party got trapped in the Ethereal/Spirit Plane. Now asking them for help in investigating Undead occurrences in his home village of Junyan.
 
 #### Healer Danxia
@@ -396,5 +408,5 @@ Lauran's brother. The circumstances around his death are unknown to the party.
 - **Race/Species**: God
 - **Status**: Alive
 
-The goddess of oblivion, who waits at the Naihe bridge in the Underworld to serve people her signature Soup of Forgetfulness, ensuring that they do not remember their past lives before being reincarnated. Occasionally throughout the mortal world harvesting herbs for her soup, where she sometimes tests mortals by pretending to be a young woman needing help crossing the river for her own amusement. Seems to be familiar with Michael, knowing his former name from his youth. Is an actual person in Chinese mythology and folklore lmao.
+The goddess of oblivion, who waits at the Naihe bridge in the Underworld to serve people her signature Soup of Forgetfulness, ensuring that they do not remember their past lives before being reincarnated. Occasionally found throughout the mortal world harvesting herbs for her soup, where she sometimes tests mortals by pretending to be a young woman needing help crossing the river for her own amusement. Seems to be familiar with Michael, knowing his former name from his youth. Is an actual person in Chinese mythology and folklore lmao.
 
