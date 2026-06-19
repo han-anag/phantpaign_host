@@ -2,11 +2,11 @@
 #### Michael Yang
 > ![[p5_michael_test 1.png]]
 >
-> |             |     |
+> | |  |
 > | --- | --- |
-> | **Name(s)**:  | Michael Yang, Yang Haoyu, 羊浩宇, Yang-Shifu  |
+> | **Name(s)**:  | Michael Yang, Yang Haoyu, 羊浩宇, Yang-Shifu      |
 > | **Pronouns**: | He/him     |
-> | **Age**:  | ;)    |
+> | **Age**:  | ;)        |
 > | **Race/Species**:  | Human?         |
 > | **Status**: | Alive       |
 > First met at the Taochuan Fair. A powerful Spirit medium and entertainer. Mentoring Anahe and mentored Nadyn in the past. Friends with Guiying.
@@ -16,11 +16,11 @@
 > 
 > | | |
 > | --- | --- |
-> | **Name(s)**: | Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨 |
-> | **Pronouns**: | He/him |
-> | **Age**: | Early-mid 30s |
-> | **Race/Species**: | Human |
-> | **Status**: | It's complicated |
+> | **Name(s)**: | Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨     |
+> | **Pronouns**: | He/him     |
+> | **Age**: | Early-mid 30s     |
+> | **Race/Species**: | Human     |
+> | **Status**: | It's complicated     |
 > First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
 
 >[!warning]- Click to reveal his current appearance
@@ -30,9 +30,9 @@
 > ![[pants0323WM.png|500]]
 > Art by Hskachu
 > 
-> |  |                                           |
+> |  |  |
 > | --- | --- |
-> | **Name(s)**:      | Mei Zhang, Zhang Mei, 张梅|
+> | **Name(s)**:      | Mei Zhang, Zhang Mei, 张梅        |
 > | **Pronouns**:     | She/her                                      |
 > | **Age**:          | Late 20s-Early 30s in human years                             |
 > | **Race/Species**: | Wood Elf                                  |
@@ -42,9 +42,9 @@
 #### Guiying Mu
 > ![[guiying_token.png]]
 >
-> |            |                                            |
+> |   |  |
 > | --- | --- |
-> | **Name(s)**:      | Guiying, 桂英, Mu Guiying, 穆桂英 |
+> | **Name(s)**:      | Guiying, 桂英, Mu Guiying, 穆桂英         |
 > | **Pronouns**:     | She/her                                      |
 > | **Age**:          | ~350-400                                  |
 > | **Race/Species**: | Elf (through a High Elven and Elven relationship)                                     |
@@ -55,22 +55,22 @@
 > ![[phantpaign_lauran_compressed.png|400]]
 > ![[phantpaign_lauran_hanfu.png|400]]
 >
-> |  |     |
+> |  |  |
 > | --- | --- |
-> | **Name(s)**: | Lauran, Lauran Howl    |
-> | **Pronouns**:  | He/him     |
-> | **Age**: | 700+ years      |
-> | **Race/Species**:  | High Elf |
-> | **Status**: | Alive |
+> | **Name(s)**: | Lauran, Lauran Howl            |
+> | **Pronouns**:  | He/him         |
+> | **Age**: | 700+ years          |
+> | **Race/Species**:  | High Elf         |
+> | **Status**: | Alive     |
 > A self-proclaimed Necromancer who was previously cast out by the other High Elves for his horrific magic. The "father" or creator of Fanna. Had a brother in the past named Altair.
 
 #### Master Hua
 > ![[hua tuo koei wiki.png|400]]
 > <br>[Picture from Koei Wiki](https://koei.fandom.com/wiki/Hua_Tuo?file=Hua_Tuo_%28ROTKHD%29.png#Romance_of_the_Three_Kingdoms)
 > 
-> |   |     |
+> |   |  |
 > | --- | --- |
-> | **Name(s)**:  | Master Hua, Hua Tuo, 华佗, Hua-Shifu    |
+> | **Name(s)**:  | Master Hua, Hua Tuo, 华佗, Hua-Shifu            |
 > | **Pronouns**: | He/him                                |
 > | **Age**:   | 900-1000                                 |
 > | **Race/Species**:  |  High Elf                        |
@@ -80,47 +80,47 @@
 #### Soup
 > ![[soupcolors1.png|400]]
 > 
-> | |     |
+> | |  |
 > | --- | --- |
-> | **Name(s)**: | Soup, Soup the Hundun     |
-> | **Pronouns**: |Whatever                  |
+> | **Name(s)**: | Soup, Soup the Hundun             |
+> | **Pronouns**: |Whatever                      |
 > | **Age**:  |???                           |
-> | **Race/Species**:  |Hundun               |
-> | **Status**:  | ???                       |
+> | **Race/Species**:  |Hundun                   |
+> | **Status**:  | ???                           |
 > A small Hundun whom the party rescued from Ayer's office. A being of chaos who becomes more disruptive the more chaotic the party acts toward each other and others. Fluffy and cute.
 
 #### Nadyn Donaurkos
 > ![[Nadyn_token.png]]
 > <br> Art by biggest_bee
 >
-> | |     |
+> | |  |
 > | --- | --- |
-> | **Name(s)**: | Nadyn, Nadyn Donaurkos     |
+> | **Name(s)**: | Nadyn, Nadyn Donaurkos             |
 > | **Pronouns**: | He/him                    |
 > | **Age**: | 23                             |
-> | **Race/Species**: | Human                 |
-> | **Status**:  | Alive                      |
+> | **Race/Species**: | Human                     |
+> | **Status**:  | Alive                          |
 > Amanti's formerly estranged son, whom he has a strained relationship with. Formerly enlisted in the Yumalyan Civil War, not by choice, on the Modernists--the winning--side. The one who (almost) killed Donovan.
 
 #### Anahe
 > ![[anahe_token.png]]
 >
-> |    |     |
+> |    |   |
 > | --- | --- |
-> | **Name(s)**:  | Anahe            |
-> | **Pronouns**:   | She/her        |
-> | **Age**:  | 16                   |
-> | **Race/Species**:  | Tiefling    |
-> | **Status**:   | Alive            |
+> | **Name(s)**:  | Anahe                |
+> | **Pronouns**:   | She/her            |
+> | **Age**:  | 16                       |
+> | **Race/Species**:  | Tiefling            |
+> | **Status**:   | Alive                |
 > Michael's apprentice, whom he took in a couple years ago. Has the uncanny ability to sense people's emotions.
 
 #### Louisa Donaurkos
 > ![[louisa biggest_bee.png|400]]
 > <br> Art by biggest_bee
 > 
-> |  |     |
+> |  |  |
 > | --- | --- |
-> | **Name(s)**:  | Louisa, Louisa Donaurkos    |
+> | **Name(s)**:  | Louisa, Louisa Donaurkos            |
 > | **Pronouns**:  | She/her                    |
 > | **Age**:  | Late 40s-Early 50s              |
 > | **Race/Species**:   | Human                 |
@@ -145,7 +145,7 @@
 #### Yao Lufei
 > ![[yao_lufei_token.png]]
 >
-> |  |     |
+> |  |  |
 > | --- | --- |
 > | **Name(s)**:  | Yao, Yao Lufei, Lufei Yao, 陸費曜    |
 > | **Pronouns**:   | He/him                          |
@@ -157,7 +157,7 @@
 #### Liu
 > ![[liu_aarakocra.png]]
 >
-> |  |     |
+> |  |  |
 > | --- | --- |
 > | **Name(s)**:   | Liu, 流                 |
 > | **Pronouns**:  | He/They                |
@@ -169,7 +169,7 @@
 #### Healer Danxia
 > ![[phantpaign_healer_danxia.png|400]]
 >
-> |    |     |
+> |    |  |
 > | --- | --- |
 > | **Name(s)**:  | Healer Danxia, 丹霞, Danxia    |
 > | **Pronouns**:   |  She/her                   |
