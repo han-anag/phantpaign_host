@@ -2,13 +2,13 @@
 #### Michael Yang
 > ![[p5_michael_test 1.png]]
 >
-> |                                                        |     |
-> | ------------------------------------------------------ | --- |
+> |             |     |
+> | ---- | --- |
 > | **Name(s)**:  | Michael Yang, Yang Haoyu, 羊浩宇, Yang-Shifu  |
-> | **Pronouns**:                                   | He/him     |
-> | **Age**:                                             | ;)    |
-> | **Race/Species**:                           | Human?         |
-> | **Status**:                                    | Alive       |
+> | **Pronouns**: | He/him     |
+> | **Age**:  | ;)    |
+> | **Race/Species**:  | Human?         |
+> | **Status**: | Alive       |
 > First met at the Taochuan Fair. A powerful Spirit medium and entertainer. Mentoring Anahe and mentored Nadyn in the past. Friends with Guiying.
 
 #### Donovan Lufei
@@ -16,11 +16,11 @@
 > 
 > |             |                                             |
 > | ----------------- | ------------------------------------------------- |
-> | **Name(s)**:      | Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨 |
-> | **Pronouns**:     | He/him                                            |
-> | **Age**:          | Early-mid 30s                                     |
+> | **Name(s)**: | Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨 |
+> | **Pronouns**:  | He/him                                            |
+> | **Age**: | Early-mid 30s                                     |
 > | **Race/Species**: | Human                                             |
-> | **Status**:       | It's complicated                                  |
+> | **Status**: | It's complicated                                  |
 > ##### Summary
  > First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
 >> [!warning]- Click to reveal his current appearance
@@ -31,7 +31,7 @@
 > Art by Hskachu
 > 
 > | Title             | Title                                             |
-> | ----------------- | ------------------------------------------------- |
+> | ----------------- | ---------------- |
 > | **Name(s)**:      | text |
 > | **Pronouns**:     | text                                       |
 > | **Age**:          | text                                  |
@@ -40,10 +40,10 @@
 > First met at the Taochuan Fair on a counter-reconnaissance mission against a suspected Ondinian terrorist group. Member of The Atracidae, a vigilante-at-times environmental protection activist group.
 
 #### Guiying Mu
-> 
+> ![[guiying_token.png]]
 >
 > | Title             | Title                                             |
-> | ----------------- | ------------------------------------------------- |
+> | ----------------- | ---------------- |
 > | **Name(s)**:      | Guiying, 桂英, Mu Guiying, 穆桂英 |
 > | **Pronouns**:     | She/her                                      |
 > | **Age**:          | ~350-400                                  |
@@ -52,13 +52,17 @@
 > Manages the Eastern Shengdu Temple with her dad, Master Hua. A long-time close friend of Michael. Kindly and earnest. Well-learned in healing magic passed down from her father.
 
 #### Lauran Howl
-- **Name(s)**: Lauran, Lauran Howl
-- **Pronouns**: He/him
-- **Age**: 700+ years
-- **Race/Species**: High Elf
-- **Status**: Alive
-
-A self-proclaimed Necromancer who was previously cast out by the other High Elves for his horrific magic. The "father" or creator of Fanna. Had a brother in the past named Altair.
+> ![[phantpaign_lauran_compressed.png|400]]
+> ![[phantpaign_lauran_hanfu.png|400]]
+>
+> |                                  |     |
+> | --- | --- |
+> | **Name(s)**: | Lauran, Lauran Howl    |
+> | **Pronouns**:  | He/him     |
+> | **Age**: | 700+ years      |
+> | **Race/Species**:  | High Elf |
+> | **Status**: | Alive |
+> A self-proclaimed Necromancer who was previously cast out by the other High Elves for his horrific magic. The "father" or creator of Fanna. Had a brother in the past named Altair.
 #### Master Hua
 - **Name(s)**: Master Hua, Hua Tuo, 华佗, Hua-Shifu
 - **Pronouns**: He/him
