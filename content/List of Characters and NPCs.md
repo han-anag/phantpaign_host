@@ -7,17 +7,23 @@
 - **Status**: Alive
 
 First met at the Taochuan Fair. A powerful Spirit medium and entertainer. Mentoring Anahe and mentored Nadyn in the past. Friends with Guiying.
-> [!info]
-> #### Donovan Lufei
+> [!infobox|no-title center wikipedia wfull]
+> # Donovan Lufei
 > ![[donovan_headshot.png|400]]
+> 
+> | | |
+> | ---- | --- |
+> | **Name(s)**:  | Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨 |
+> | **Pronouns**: | He/him |
+> | **Age**: | Early-mid 30s |
+> | **Race/Species**: | Human |
+> | **Status**: | It's complicated |
+> ##### Summary
+> First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
 
 > [!warning]- Click to reveal his current appearance
 > ![[phantpaign_donovan_corruption.png|400]]
-- **Name(s)**: Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨
-- **Pronouns**: He/him
-- **Age**: Early-mid 30s
-- **Race/Species**: Human
-- **Status**: It's complicated
+
 First met at the Taochuan Fair. A researcher specializing in biomechanical engineering and biomimetics/biomimicry, with his current focus being on plant life-based robotic constructs. From the homely village of Lidong, Anshan Province.
 
 #### Mei Zhang
