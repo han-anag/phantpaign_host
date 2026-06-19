@@ -10,8 +10,9 @@ First met at the Taochuan Fair. A powerful Spirit medium and entertainer. Mentor
 > [!info]
 > #### Donovan Lufei
 > ![[donovan_headshot.png|400]]
->> [!warning]- Click to reveal his current appearance
->> ![[phantpaign_donovan_corruption.png|400]]
+
+> [!warning]- Click to reveal his current appearance
+> ![[phantpaign_donovan_corruption.png|400]]
 - **Name(s)**: Donovan Lufei, Donoboy, Donnyboy, Lu Zhichen, 陆志晨
 - **Pronouns**: He/him
 - **Age**: Early-mid 30s
