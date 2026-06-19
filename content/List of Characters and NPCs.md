@@ -79,6 +79,7 @@
 ## Secondary
 #### Soup
 > ![[soupcolors1.png|400]]
+> <br> [Art by Ryn Heller](https://www.rynheller.com/)
 > 
 > | |  |
 > | --- | --- |
