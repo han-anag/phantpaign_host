@@ -3,7 +3,7 @@
 > ![[p5_michael_test 1.png]]
 >
 > |             |     |
-> | ---- | --- |
+> | --- | --- |
 > | **Name(s)**:  | Michael Yang, Yang Haoyu, 羊浩宇, Yang-Shifu  |
 > | **Pronouns**: | He/him     |
 > | **Age**:  | ;)    |
@@ -31,7 +31,7 @@
 > Art by Hskachu
 > 
 > |  |                                           |
-> | --- | ---------------- |
+> | --- | --- |
 > | **Name(s)**:      | Mei Zhang, Zhang Mei, 张梅|
 > | **Pronouns**:     | She/her                                      |
 > | **Age**:          | Late 20s-Early 30s in human years                             |
@@ -43,7 +43,7 @@
 > ![[guiying_token.png]]
 >
 > |            |                                            |
-> | ---- | ---------------- |
+> | --- | --- |
 > | **Name(s)**:      | Guiying, 桂英, Mu Guiying, 穆桂英 |
 > | **Pronouns**:     | She/her                                      |
 > | **Age**:          | ~350-400                                  |
