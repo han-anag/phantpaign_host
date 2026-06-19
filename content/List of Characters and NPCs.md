@@ -30,7 +30,7 @@
 
 #### Mei Zhang
 > ![[pants0323WM.png|500]]
-> Art by Hskachu
+> <br> [Art by Hskachu](https://linktr.ee/hskachu)
 > 
 > |  |  |
 > | --- | --- |
