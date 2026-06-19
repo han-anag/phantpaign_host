@@ -401,6 +401,7 @@ A top general in Leferin. Recently wrapped up his diplomatic tour of Lingguo, wh
 Lauran's brother. The circumstances around his death are unknown to the party.
 #### Meng Po
 ![[meng po.png|400]]
+
 [Unfortunately I cannot find the exact original source, but this page has a watermarked image](https://zhuanlan.zhihu.com/p/395100577)
 - **Name(s)**: Meng Po, Lady Meng
 - **Pronouns**: She/her
