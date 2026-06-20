@@ -1,3 +1,7 @@
+
+> [!tip]+ Note
+> Names are ordered so the given name comes first, and the surname comes last, unless otherwise noted
+
 ## Main (Primary)
 #### Michael Yang
 > ![[p5_michael_test 1.png]]
@@ -99,7 +103,7 @@
 
 #### Nadyn Donaurkos
 > ![[Nadyn_token.png]]
-> <br> Art by biggest_bee
+> <br> Art by [biggest_bee](https://biggestbee.carrd.co/)
 >
 > | |  |
 > | --- | --- |
@@ -126,7 +130,7 @@
 
 #### Louisa Donaurkos
 > ![[louisa biggest_bee.png|400]]
-> <br> Art by biggest_bee
+> <br> Art by [biggest_bee](https://biggestbee.carrd.co/)
 > 
 > |  |  |
 > | --- | --- |
@@ -195,219 +199,296 @@
 ## Past Arcs
 ### The Taochuan Fair
 #### Zephyra
-- **Name(s)**: Zephyra, Zephyra Liang
-- **Pronouns**: She/her
-- **Age**: Late 30s-Early 40s in Human years
-- **Race/Species**: Half-elf
-- **Status**: Deceased
+> |                                            |     |
+> | ------------------------------------------ | --- |
+> | **Name(s)**: Zephyra, Zephyra Liang        |     |
+> | **Pronouns**: She/her                      |     |
+> | **Age**: Late 30s-Early 40s in Human years |     |
+> | **Race/Species**: Half-elf                 |     |
+> | **Status**: Deceased                       |     |
+> 
+> Associated with the Ondinian Terrorist group that infiltrated and attacked the Taochuan Fair. Appeared to be a point of contact for Lauran and his ability to receive a presentation slot. Sister of Ayer Barrett.
 
-Associated with the Ondinian Terrorist group that infiltrated and attacked the Taochuan Fair. Appeared to be a point of contact for Lauran and his ability to receive a presentation slot. Sister of Ayer Barrett.
 #### Ljubica
-- **Name(s)**: Ljubica
-- **Pronouns**: She/her
-- **Age**: 80s in Human years
-- **Race/Species**: Half-elf
-- **Status**: Alive
+> |                             |     |
+> | --------------------------- | --- |
+> | **Name(s)**:        | Ljubica     |
+> | **Pronouns**:        | She/her    |
+> | **Age**:  |80s in Human years     |
+> | **Race/Species**:  | Half-elf     |
+> | **Status**:          | Alive      |
+>
+> An immigrant from Ondinia who was escaping the Yumalyan Civil War. Lost her family, and now owns and runs a Yumalyan restaurant in Shengdu with Iskra. Does most of the cooking, while Iskra does most of the waiting on customers.
 
-An immigrant from Ondinia who was escaping the Yumalyan Civil War. Lost her family, and now owns and runs a Yumalyan restaurant in Shengdu with Iskra. Does most of the cooking, while Iskra does most of the waiting on customers.
 #### Iskra
-- **Name(s)**: Iskra
-- **Pronouns**: She/her
-- **Age**: Late 20s
-- **Race/Species**: Human 
-- **Status**: Alive
+> |                          |     |
+> | ------------------------ | --- |
+> | **Name(s)**:    | Iskra        |
+> | **Pronouns**:     | She/her    |
+> | **Age**:         | Late 20s     |
+> | **Race/Species**:  | Human     |
+> | **Status**:   | Alive          |
+> 
+> An immigrant from Ondinia who was escaping the Yumalyan Civil War. Lost her family, and now owns and runs a Yumalyan restaurant in Shengdu with Ljubica. Does most of the waiting on customers, while Ljubica does the cooking.
 
-An immigrant from Ondinia who was escaping the Yumalyan Civil War. Lost her family, and now owns and runs a Yumalyan restaurant in Shengdu with Ljubica. Does most of the waiting on customers, while Ljubica does the cooking.
 #### Daya
-- **Name(s)**: Daya, Dayanghirang, Jomar Dayanghirang
-- **Pronouns**: He/him
-- **Age**: Mid-30s
-- **Race/Species**: Tiefling 
-- **Status**: Alive
+> |                                                     |     |
+> | --------------------------------------------------- | --- |
+> | **Name(s)**: Daya, Dayanghirang, Jomar Dayanghirang |     |
+> | **Pronouns**: He/him                                |     |
+> | **Age**: Mid-30s                                    |     |
+> | **Race/Species**: Tiefling                          |     |
+> | **Status**: Alive                                   |     |
+>
+> One of Donovan's (former?) friends. Rather dry humor. 
 
-One of Donovan's (former?) friends. Rather dry humor. 
 ### The Kite-Flying Festival
 #### Yuvi
-- **Name(s)**: Yuvi
-- **Pronouns**: She/her
-- **Age**: Early 30s in Human years
-- **Race/Species**: Earth Genasi
-- **Status**: Alive
+> |                                   |     |
+> | --------------------------------- | --- |
+> | **Name(s)**: Yuvi                 |     |
+> | **Pronouns**: She/her             |     |
+> | **Age**: Early 30s in Human years |     |
+> | **Race/Species**: Earth Genasi    |     |
+> | **Status**: Alive                 |     |
+> 
+> One of Donovan's (former?) friends. Seemed to know him from their time studying for the Imperal Exams, roughly equivalent to undergrad.
 
-One of Donovan's (former?) friends. Seemed to know him from their time studying for the Imperal Exams, roughly equivalent to undergrad.
 #### Joanna
-- **Name(s)**: Joanna
-- **Pronouns**: She/her
-- **Age**: Early-Mid 30s in Human years
-- **Race/Species**: Halfling
-- **Status**: Alive
+> |                                       |     |
+> | ------------------------------------- | --- |
+> | **Name(s)**:                  | Joanna      |
+> | **Pronouns**:            | She/her          |
+> | **Age**:  | Early-Mid 30s in Human years    |
+> | **Race/Species**:         | Halfling        |
+> | **Status**:                 | Alive         |
+> 
+> One of Donovan's (former?) friends. Her family immigrated to Lingguo from Leferin. Specializes in Archaeology, and partnered with Kasha's Kobold tribe to preserve the River Dragon's Pearl. Previously with Yuvi and Daya asked the party to check on Donovan, as he had withdrawn from life after the deal with the government for his plant constructs.
 
-One of Donovan's (former?) friends. Her family immigrated to Lingguo from Leferin. Specializes in Archaeology, and partnered with Kasha's Kobold tribe to preserve the River Dragon's Pearl. Previously with Yuvi and Daya asked the party to check on Donovan, as he had withdrawn from life after the deal with the government for his plant constructs.
 #### Lady Sangshu
-- **Name(s)**: Lady Sangshu, Sangshu
-- **Pronouns**: She/her
-- **Age**: Old
-- **Race/Species**: High Elf 
-- **Status**: Alive
+> |                                    |     |
+> | ---------------------------------- | --- |
+> | **Name(s)**:  | Lady Sangshu, Sangshu    |
+> | **Pronouns**:          |  She/her        |
+> | **Age**:           | Old                 |
+> | **Race/Species**:       | High Elf       |
+> | **Status**:        |  Alive              |
+> 
+> A High Elven woman extremely proficient in Threadworking magic who uses her talents for tailoring and seamstress services in Shengdu. Allows customers to reveal a secret with her for a discount. Mei, Donovan, and Michael have all gone to her for her services in the past. Her receptionist is Cillian.
 
-A High Elven woman extremely proficient in Threadworking magic who uses her talents for tailoring and seamstress services in Shengdu. Allows customers to reveal a secret with her for a discount. Mei, Donovan, and Michael have all gone to her for her services in the past. Her receptionist is Cillian.
 #### Cillian
-- **Name(s)**: Cillian, Cillian Moore
-- **Pronouns**: He/him
-- **Age**: Early-Mid 30s
-- **Race/Species**: Human?
-- **Status**: Alive
+> |                                     |     |
+> | ----------------------------------- | --- |
+> | **Name(s)**: Cillian, Cillian Moore |     |
+> | **Pronouns**: He/him                |     |
+> | **Age**: Early-Mid 30s              |     |
+> | **Race/Species**: Human?            |     |
+> | **Status**: Alive                   |     |
+> 
+> The cheerful receptionist for the enigmatic Lady Sangshu's services. A creation bard who enjoys weaving creatures, especially insects, out of grass. Also from Anshan Province.
+> 
+> Yes, he's canon to this setting.
 
-The cheerful receptionist for the enigmatic Lady Sangshu's services. A creation bard who enjoys weaving creatures, especially insects, out of grass. Also from Anshan Province.
-
-Yes, he's canon to this setting.
 ### The Factory Upriver
 #### Ayer Barrett
-- **Name(s)**: Ayer, Ayer Barrett, Argent Liang
-- **Pronouns**: He/him
-- **Age**: 50s in Human years, ~100 in Half-elf years
-- **Race/Species**: Half-elf
-- **Status**: Deceased
+> |                                                     |     |
+> | --------------------------------------------------- | --- |
+> | **Name(s)**:       | Ayer, Ayer Barrett, Argent Liang     |
+> | **Pronouns**:                               | He/him      |
+> | **Age**:  | 50s in Human years, ~100 in Half-elf years    |
+> | **Race/Species**:   | Half-elf         |
+> | **Status**:  | Removed from The Weave     |
+> 
+> Owned a weapons-manufacturing upriver of the Ming River/River of Life. Killed by the party after they were tasked with investigating him and eliminating him if necessary by The Atracidae. His Ghost was eaten by the Taotie and subsequently removed from The Weave. Brother of Zephyra Liang.
 
-Owned a weapons-manufacturing upriver of the Ming River/River of Life. Killed by the party after they were tasked with investigating him and eliminating him if necessary by The Atracidae. Sister of Zephyra Liang.
 #### Kasha
-- **Name(s)**: Kasha
-- **Pronouns**: She/her
-- **Age**: Late 20s in Human years
-- **Race/Species**: Kobold
-- **Status**: Alive
+> |                                  |     |
+> | -------------------------------- | --- |
+> | **Name(s)**:      | Kasha              |
+> | **Pronouns**:     | She/her            |
+> | **Age**:  | Late 20s in Human years    |
+> | **Race/Species**:     | Kobold         |
+> | **Status**:      |  Alive              |
+> 
+> The leader of a Kobold tribe that lives alongside the Ming River. The party helped save her and a neighboring friendly Kobold tribe after Ayer's factory upriver caused their sources of food to be contaminated or dried up. Currently in possession of the River Dragon's Pearl, whom Ayer had stolen.
 
-The leader of a Kobold tribe that lives alongside the Ming River. The party helped save her and a neighboring friendly Kobold tribe after Ayer's factory upriver caused their sources of food to be contaminated or dried up. Currently in possession of the River Dragon's Pearl, whom Ayer had stolen.
 ### Journey into Anshan
 #### Yinghua
-![[yinghua_token.png]]
-![[yinghua_doodle_ref.png|400]]
-- **Name(s)**: Yinghua, 樱花
-- **Pronouns**: She/her
-- **Age**: Mid-20s in Human years
-- **Race/Species**: Elf
-- **Status**: Deceased
+> ![[yinghua_token.png]]
+> ![[yinghua_doodle_ref.png|400]]
+> 
+> |                                 |     |
+> | ------------------------------- | --- |
+> | **Name(s)**:      |  Yinghua, 樱花      |
+> | **Pronouns**:         |  She/her      |
+> | **Age**:  | Mid-20s in Human years    |
+> | **Race/Species**:  |  Elf             |
+> | **Status**:     |  Removed from The Weave         |
+> 
+> An Atracidae member whom Mei mentored and took in. Cared deeply about Mei, and looked at her complicated relationship with Louisa and Donovan with sorrow. Sacrificed her life and existence in The Weave to protect the party and Mei from the Taotie.
 
-An Atracidae member whom Mei mentored and took in. Cared deeply about Mei, and looked at her complicated relationship with Louisa and Donovan with sorrow. Sacrificed her life and existence in The Weave to protect the party and Mei from the Taotie.
 #### Daina
-![[daina_token.png]]
-- **Name(s)**: Daina
-- **Pronouns**: She/her
-- **Age**: Mid-20s
-- **Race/Species**: Human 
-- **Status**: Alive
+> ![[daina_token.png]]
+> 
+> |                          |     |
+> | ------------------------ | --- |
+> | **Name(s)**:   |  Daina        |
+> | **Pronouns**:   |  She/her     |
+> | **Age**:  | Mid-20s            |
+> | **Race/Species**:  | Human     |
+> | **Status**:  |  Alive          |
+> 
+> A recent immigrant from Ondinia, presumably escaping the Yumalyan Civil War. Gave birth to a half-Spirit baby after an encounter with a Spirit on her way to Lidong. Harassed by the village who was suspicious of her origins, assuming her and her baby were malicious Spirits--or Fey, as they are called in Anshan. Yao Lufei attempted to protect her and gave her shelter free of charge. Escaped to Shengdu with the party, Mei, and Yinghua's help, and now works at Ljubica and Iskra's restuarant.
 
-A recent immigrant from Ondinia, presumably escaping the Yumalyan Civil War. Gave birth to a half-Spirit baby after an encounter with a Spirit on her way to Lidong. Harassed by the village who was suspicious of her origins, assuming her and her baby were malicious Spirits--or Fey, as they are called in Anshan. Yao Lufei attempted to protect her and gave her shelter free of charge. Escaped to Shengdu with the party, Mei, and Yinghua's help, and now works at Ljubica and Iskra's restuarant.
 #### Aoife Lufei
-![[aoife_eva_donovan's_mom.png|400]]
-![[picrew_1738886451926662.png|400]]
-- **Name(s)**: Aoife, Aoife Lufei
-- **Pronouns**: She/her
-- **Age**: Mid-30s at death
-- **Race/Species**: Spirit, Human when alive
-- **Status**: Deceased
+> ![[aoife_eva_donovan's_mom.png|400]]
+> ![[picrew_1738886451926662.png|400]]
+> 
+> |                                            |     |
+> | ------------------------------------------ | --- |
+> | **Name(s)**:    | Aoife, Aoife Lufei             |
+> | **Pronouns**:   | She/her                        |
+> | **Age**:   | Mid-30s at death                    |
+> | **Race/Species**:  | Spirit, Human when alive    |
+> | **Status**:   | Deceased                         |
+> 
+> Donovan's deceased mother and wife of Yao. Intervened in Lidong when the villagers attempted to attack Daina and her baby and chase them out. Cared about her son deeply.
 
-Donovan's deceased mother and wife of Yao. Intervened in Lidong when the villagers attempted to attack Daina and her baby and chase them out. Cared about her son deeply.
 #### Lady Zhenyi
-- **Name(s)**: Lady Zhenyi, Zhenyi
-- **Pronouns**: She/her
-- **Age**: 650
-- **Race/Species**: High Elf
-- **Status**: Alive
+> |                                  |     |
+> | -------------------------------- | --- |
+> | **Name(s)**:  | Lady Zhenyi, Zhenyi    |
+> | **Pronouns**:    | She/her             |
+> | **Age**:   |  650                      |
+> | **Race/Species**:   |  High Elf        |
+> | **Status**:  |  Alive                  |
+> 
+> The informant whom Yinghua and Mei were to meet up with in Anshan, who lives within the Anshan Nature Reserve. An affectionate woman who enjoys gifting others with hugs and flower crowns. Present with the other High Elves when they discussed Lauran.
 
-The informant whom Yinghua and Mei were to meet up with in Anshan, who lives within the Anshan Nature Reserve. An affectionate woman who enjoys gifting others with hugs and flower crowns. Present with the other High Elves when they discussed Lauran.
 ### The Spirit World
 #### Michael Echo
-- **Name(s)**: Michael Echo, Evil!Michael
-- **Pronouns**: Doesn't matter
-- **Age**: ???
-- **Race/Species**: Spirit 
-- **Status**: Deceased
+> |                                         |     |
+> | --------------------------------------- | --- |
+> | **Name(s)**:  | Michael Echo, Evil!Michael    |
+> | **Pronouns**:    |  Doesn't matter            |
+> | **Age**:      | ???                           |
+> | **Race/Species**:   | Spirit                  |
+> | **Status**:  |  Deceased                      |
+> 
+> A darker, more sinister version of Michael that split off from his Soul and became its own being. Dragged Liu's adventuring party into the Deep Ethereal chasm in the ground and turned them to stone. Defeated by the party with assistance from Michael.
 
-A darker, more sinister version of Michael that split off from his Soul and became its own being. Dragged Liu's adventuring party into the Deep Ethereal chasm in the ground and turned them to stone. Defeated by the party with assistance from Michael.
 ### The Tigers of Nam
 #### Big Brother Koi Spirit
-- **Name(s)**: Big Brother Koi Spirit, Big Brother, Da Ge, 大哥
-- **Pronouns**: He/him
-- **Age**: Late 30s in Human years
-- **Race/Species**: Spirit, formerly Spirit possessing a Human body
-- **Status**: Alive, reduced in form
+> |                                                                   |     |
+> | ----------------------------------------------------------------- | --- |
+> | **Name(s)**:   |  Big Brother Koi Spirit, Big Brother, Da Ge, 大哥        |
+> | **Pronouns**:        |  He/him                                          |
+> | **Age**:      |  Late 30s in Human years                                |
+> | **Race/Species**:  |  Spirit, formerly Spirit possessing a Human body   |
+> | **Status**:     |  Alive, reduced in form                               |
+> 
+> Jinli's big adoptive brother, whom possessed the body of the former Truong Giang Tigers of Nam captain when he died in a deal gone wrong. Protective of Jinli and cared for his wellbeing, hoarding Maiden's Bell flowers for Jinli's sake. Reduced to a lesser Spirit form after some of the Tigers of Nam grunts betrayed him and attacked him as the party was in combat against him.
 
-Jinli's adoptive big brother, whom possessed the body of the former Truong Giang Tigers of Nam captain when he died in a deal gone wrong. Protective of Jinli and cared for his wellbeing, hoarding Maiden's Bell flowers for Jinli's sake. Reduced to a lesser Spirit form after some of the Tigers of Nam grunts betrayed him and attacked him as the party was in combat against him.
 #### Thien's Mother
-- **Name(s)**: Thien's Mother, Do Thi Ngoc Linh
-- **Pronouns**: She/her
-- **Age**: Mid-40s
-- **Race/Species**: Human
-- **Status**: Alive
-
-Thien's doting mother. Works as a carpenter with her husband, Le Dang Minh. An avid fan of Kite Flying Battles. Seems a little self-conscious about her weight, much to Thien and her husband's sadness. Has a bit of a rivalry with the local Trang family that owns a mediocre dumpling house after she outbid them for a new house decoration. Hosted the party whilst they were in Nam.
+> |                                               |     |
+> | --------------------------------------------- | --- |
+> | **Name(s)**:  | Thien's Mother, Do Thi Ngoc Linh (surname first)   |
+> | **Pronouns**:   |   She/her                         |
+> | **Age**:       |  Mid-40s                           |
+> | **Race/Species**:      |  Human                     |
+> | **Status**:  |  Alive                               |
+> 
+> Thien's doting mother. Works as a carpenter with her husband, Le Dang Minh. An avid fan of Kite Flying Battles. Seems a little self-conscious about her weight, much to Thien and her husband's sadness. Has a bit of a rivalry with the local Trang family that owns a mediocre dumpling house after she outbid them for a new house decoration. Hosted the party whilst they were in Nam.
 #### Thien's Father
-- **Name(s)**: Thien's Father, Le Dang Minh
-- **Pronouns**: He/him
-- **Age**: Late 40s
-- **Race/Species**: Human
-- **Status**: Alive
+> |                                           |     |
+> | ----------------------------------------- | --- |
+> | **Name(s)**:  | Thien's Father, Le Dang Minh (surname first)    |
+> | **Pronouns**:   | He/him                        |
+> | **Age**:     | Late 40s                         |
+> | **Race/Species**:     |  Human                  |
+> | **Status**:     | Alive                         |
+> 
+> Thien's doting father. Works as a carpenter with his wife, Do Thi Ngoc Linh. Happily listens to Nam's Next Top Idol with his wife in the evenings. Hosted the party whilst they were in Nam.
 
-Thien's doting father. Works as a carpenter with his wife, Do Thi Ngoc Linh. Happily listens to Nam's Next Top Idol with his wife in the evenings. Hosted the party whilst they were in Nam.
 #### Laseen
-- **Name(s)**: Laseen
-- **Pronouns**: She/her
-- **Age**: Early 20s in Human years
-- **Race/Species**: Lizardfolk
-- **Status**: Alive
+> |                                   |     |
+> | --------------------------------- | --- |
+> | **Name(s)**:  |  Laseen                 |
+> | **Pronouns**:  |  She/her               |
+> | **Age**:  |  Early 20s in Human years   |
+> | **Race/Species**:   |  Lizardfolk       |
+> | **Status**:     |  Alive                |
+> 
+> The eldest daughter from a long line of pit fighters. As her parents are quite old and frail due to decades of injuries from their careers, she does most of the raising of her younger brothers and running the house. Her gladiator persona is "The Tigress", which attracted attention from the Tigers of Nam. When she's not fighting or training, she makes handmade embroidered bags and sells them for extra money.
 
-The eldest daughter from a long line of pit fighters. As her parents are quite old and frail due to decades of injuries from their careers, she does most of the raising of her younger brothers and running the house. Her gladiator persona is "The Tigress", which attracted attention from the Tigers of Nam. When she's not fighting or training, she makes handmade embroidered bags and sells them for extra money.
 #### Fanna Echo
-- **Name(s)**: Fanna Echo
-- **Pronouns**: Doesn't matter
-- **Age**: ???
-- **Race/Species**: Spirit 
-- **Status**: Deceased
+> |                              |     |
+> | ---------------------------- | --- |
+> | **Name(s)**:  | Fanna Echo         |
+> | **Pronouns**:  | Doesn't matter    |
+> | **Age**:   | ???                   |
+> | **Race/Species**:   | Spirit       |
+> | **Status**: | Deceased             |
+> 
+> A darker, more sinister version of Fanna that split off from their Soul and became its own being. Regularly harassed or ransacked innocent Namese businesses, got into fights with the Tigers of Nam, and even stole Jinli's treasured Koi fish necklace from him. The party took it back after they caught the Fanna Echo spying on them. Was destroyed after Thien stayed behind in the crumbling Tigers of Nam base to ensure it was defeated once and for all.
 
-A darker, more sinister version of Fanna that split off from their Soul and became its own being. Regularly harassed or ransacked innocent Namese businesses, got into fights with the Tigers of Nam, and even stole Jinli's treasured Koi fish necklace from him. The party took it back after they caught the Fanna Echo spying on them. Was destroyed after Thien stayed behind in the crumbling Tigers of Nam base to ensure it was defeated once and for all.
 ## Other
 #### Sir Haishan
-- **Name(s)**: Sir Haishan
-- **Pronouns**: He/him
-- **Age**: 550
-- **Race/Species**: High Elf
-- **Status**: Alive
+> |                            |     |
+> | -------------------------- | --- |
+> | **Name(s)**:   | Sir Haishan     |
+> | **Pronouns**:    | He/him        |
+> | **Age**:   | 550                 |
+> | **Race/Species**:  | High Elf    |
+> | **Status**:    | Alive           |
+> 
+> An executioner, responsible for ending the lives of condemned criminals. Has very plain, muted colors in his robes, mostly dark browns and grays. Has thick layers of protective charms and talismans all around his neck and collar, to the point they rattle loudly whenever he moves, due to his profession attracting negative Spirits. Present with the other High Elves when they discussed Lauran.
 
-An executioner, responsible for ending the lives of condemned criminals. Has very plain, muted colors in his robes, mostly dark browns and grays. Has thick layers of protective charms and talismans all around his neck and collar, to the point they rattle loudly whenever he moves, due to his profession attracting negative Spirits. Present with the other High Elves when they discussed Lauran.
 #### Matas Donaurkos
-- **Name(s)**: Matas, Matas Donaurkos
-- **Pronouns**: He/him
-- **Age**: 28
-- **Race/Species**: Human
-- **Status**: Unknown
+> |                                     |     |
+> | ----------------------------------- | --- |
+> | **Name(s)**:  | Matas, Matas Donaurkos    |
+> | **Pronouns**:   | He/him                  |
+> | **Age**:   |  28                          |
+> | **Race/Species**:    | Human              |
+> | **Status**:   |  Unknown                  |
+> 
+> Amanti's other missing son. Volunteered to join the Traditionalists--the losing side--of the Yumalyan Civil War, shortly before violence officially broke out. Has not been seen by his family since.
 
-Amanti's other missing son. Volunteered to join the Traditionalists--the losing side--of the Yumalyan Civil War, shortly before violence officially broke out. Has not been seen by his family since.
 #### General Durand
-- **Name(s)**: General Durand
-- **Pronouns**: He/him
-- **Age**: ???
-- **Race/Species**: Air Genasi
-- **Status**: Alive
+> |                              |     |
+> | ---------------------------- | --- |
+> | **Name(s)**:  |  General Durand    |
+> | **Pronouns**:    |  He/him         |
+> | **Age**:  |   ???                  |
+> | **Race/Species**:  |  Air Genasi   |
+> | **Status**:  | Alive               |
+> 
+> A top general in Leferin. Recently wrapped up his diplomatic tour of Lingguo, where he met with Empress Wu, the current leader of Lingguo. May have been part of correspondences with the Tigers of Nam in the past. Accompanied by a Leferinese Eagle.
 
-A top general in Leferin. Recently wrapped up his diplomatic tour of Lingguo, where he met with Empress Wu, the current leader of Lingguo. May have been part of correspondences with the Tigers of Nam in the past. Accompanied by a Leferinese Eagle.
 #### Altair
-- **Name(s)**: Altair, Altair Howl
-- **Pronouns**: He/him
-- **Age**: ~225 at death
-- **Race/Species**: High Elf
-- **Status**: Deceased
+> |                                  |     |
+> | -------------------------------- | --- |
+> | **Name(s)**:  |  Altair, Altair Howl   |
+> | **Pronouns**:    | He/him              |
+> | **Age**: | ~225 at death               |
+> | **Race/Species**:   | High Elf         |
+> | **Status**: |  Deceased                |
+> 
+> Lauran's brother. The circumstances around his death are unknown to the party.
 
-Lauran's brother. The circumstances around his death are unknown to the party.
 #### Meng Po
-![[meng po.png|400]]
-
-[Unfortunately I cannot find the exact original source, but this page has a watermarked image](https://zhuanlan.zhihu.com/p/395100577)
-- **Name(s)**: Meng Po, Lady Meng
-- **Pronouns**: She/her
-- **Age**: Uncountable
-- **Race/Species**: God
-- **Status**: Alive
-
-The goddess of oblivion, who waits at the Naihe bridge in the Underworld to serve people her signature Soup of Forgetfulness, ensuring that they do not remember their past lives before being reincarnated. Occasionally found throughout the mortal world harvesting herbs for her soup, where she sometimes tests mortals by pretending to be a young woman needing help crossing the river for her own amusement. Seems to be familiar with Michael, knowing his former name from his youth. Is an actual person in Chinese mythology and folklore lmao.
+> ![[meng po.png|400]]
+> 
+> [Unfortunately I cannot find the exact original source, but this page has a watermarked image](https://zhuanlan.zhihu.com/p/395100577)
+> 
+> |                                 |     |
+> | ------------------------------- | --- |
+> | **Name(s)**: | Meng Po, Lady Meng     |
+> | **Pronouns**:  |  She/her             |
+> | **Age**:   |  Uncountable             |
+> | **Race/Species**:   | God             |
+> | **Status**:   | Alive                 |
+> 
+> The goddess of oblivion, who waits at the Naihe bridge in the Underworld to serve people her signature Soup of Forgetfulness, ensuring that they do not remember their past lives before being reincarnated. Occasionally found throughout the mortal world harvesting herbs for her soup, where she sometimes tests mortals by pretending to be a young woman needing help crossing the river for her own amusement. Seems to be familiar with Michael, knowing his former name from his youth. Is an actual person in Chinese mythology and folklore lmao.
 
