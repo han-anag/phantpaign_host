@@ -74,14 +74,14 @@ As the party was leaving, Fanna turned to Donovan, telling him "not to hurt the 
 
 The session thus ended with the party commenting that Donovan was delusional and that they needed to tell Michael.
 ## Key Learnings
-- Trader Zhou's assistant revealed the following numbers from the written Yumalyan section of the key card.
-		<br>93
-		<br>173482
+- Trader Zhou's assistant revealed the following numbers from the written Yumalyan section of the key card:
+		<br>**93**
+		<br>**173482**
 - "Jason" revealed while reading the card that there was an organization or building of some kind "Under management of \[M.] Donaurkos"
 - The key card acquired off the leader of the raiders contained the following Leferinese text:
-	<br>Facility 93
-		<br>Project: \[something to do with deification]
-		<br>Security Level 1
+		<br>**Facility 93**
+		<br>**Project: \[something to do with deification**]
+		<br>**Security Level 1**
 - Donovan? has concluded that he is a Spirit inhabiting Donovan's body ever since he died at the Taochuan Fair.
 
 ## Items Of Importance
