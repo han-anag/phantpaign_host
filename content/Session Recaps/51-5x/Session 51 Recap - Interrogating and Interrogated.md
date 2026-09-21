@@ -76,11 +76,14 @@ The session thus ended with the party commenting that Donovan was delusional and
 ## Key Learnings
 - Trader Zhou's assistant revealed the following numbers from the written Yumalyan section of the key card.
 	93
+	
 	173482
 - "Jason" revealed while reading the card that there was an organization or building of some kind "Under management of \[M.] Donaurkos"
 - The key card acquired off the leader of the raiders contained the following Leferinese text:
 	Facility 93
+	
 	Project: \[something to do with deification]
+	
 	Security Level 1
 - Donovan? has concluded that he is a Spirit inhabiting Donovan's body ever since he died at the Taochuan Fair.
 
