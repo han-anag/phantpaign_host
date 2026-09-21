@@ -75,12 +75,12 @@ As the party was leaving, Fanna turned to Donovan, telling him "not to hurt the 
 The session thus ended with the party commenting that Donovan was delusional and that they needed to tell Michael.
 ## Key Learnings
 - Trader Zhou's assistant revealed the following numbers from the written Yumalyan section of the key card:
-> [!Info|no-title]
+> [!Info] Numbers - Yumalyan Text
 > 93
 > <br>173482
 - "Jason" revealed while reading the card that there was an organization or building of some kind "Under management of \[M.] Donaurkos"
 - The key card acquired off the leader of the raiders contained the following Leferinese text:
-> [!info|no-title]
+> [!info] Leferinese Text
 Facility 93
 <br>Project: \[something to do with deification]
 <br>Security Level 1
