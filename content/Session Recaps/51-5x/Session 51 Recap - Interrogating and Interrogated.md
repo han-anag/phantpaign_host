@@ -81,9 +81,9 @@ The session thus ended with the party commenting that Donovan was delusional and
 - "Jason" revealed while reading the card that there was an organization or building of some kind "Under management of \[M.] Donaurkos"
 - The key card acquired off the leader of the raiders contained the following Leferinese text:
 > [!info] Leferinese Text
-Facility 93
-<br>Project: \[something to do with deification]
-<br>Security Level 1
+> Facility 93
+> <br>Project: \[something to do with deification]
+> <br>Security Level 1
 - Donovan? has concluded that he is a Spirit inhabiting Donovan's body ever since he died at the Taochuan Fair.
 
 ## Items Of Importance
